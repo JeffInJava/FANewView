@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+/*--------------全局设置-------------------*/
+body{ margin:0 auto; padding:0; font:12px Tahoma,"宋体";}
+ul,li,table,tr,td,th,tbody,tfoot,thead,fieldset,legend,span,div{margin:0; padding:0;}
+ul li{list-style:none;}
+a,.input{blr:e-xpression(this.onFocus=this.close()); text-decoration:none; color:#333;}
+a:focus,input:focus{-moz-outline-style:none;}
+/*a,area{blr:expression(this.onFocus=this.blur());}*/
+a,input{hide-focus: expression(this.hideFocus=true);  
+outline: none;}
+img{ border:0px; }
+.clear{clear:both;height:0px;font-size:1px;margin:0px;}
+.blank5{height:5px;clear:both;font-size:1px;margin:0 auto;}
+.blank10{height:10px;clear:both;font-size:1px;margin:0 auto;}
+.blank15{height:15px;clear:both;font-size:1px;margin:0 auto;}
+.blank30{height:30px;clear:both;font-size:1px;margin:0 auto;}
+.blank60{height:60px;clear:both;font-size:1px;margin:0 auto;}
+.blank100{height:100px;clear:both;font-size:1px;margin:0 auto;}
+.textR{text-align:right;}
+.textC{text-align: center;}
+.textTop{ vertical-align:top;  padding-top:8px;}
+.textL{text-align:left;}
+.shadow { filter: Shadow(Color=0053a0, Direction=112); position: absolute;   }
+.textInput{ border:1px solid #cbcbcb; margin-left:10px;}
+.lf{ float:left;}
+.ri{ float:right;}
+.bl{ font-weight:bold;}
+
+.gray{ color:#999; }
+.gray:hover{ color:#999;}
+.red{color:#e00000; text-decoration:underline;}
+.white{ color:#fff; text-decoration:underline;}
+.left8{ padding-left:8px;}
+.left15{ padding-left:15px;}
+.margin5{ margin-left:5px;}
+.margin15{ margin-left:15px;}
+
+.blueFont{color:#018fd5;}
+.unLine{ text-decoration:underline;}
+.font12{ font-size:12px;}
+.font14{ font-size:14px;}
+.timeColor{
+	color:#999;
+}

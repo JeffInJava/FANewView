@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+table{
+	color:#afb8cb;
+	font-family:"微软雅黑";
+	font-size:15px;
+	font-weight:bold;
+	}
+input{
+	border-radius:5px;
+	border:#CCCCCC 1px solid;
+	}
+select{
+	border-radius:5px;
+	border:#CCCCCC 1px solid;
+	height:25px;
+	width:150px;
+	padding-top:2px;
+	}
+.combut{
+	background-color:#fafafa;
+	color:#10a8ab;
+	font-size:14px;
+	text-align: center;
+	font-weight:bold;
+	width:80px;
+	}
+.onmousecla{
+	background-color:#10a8ab;
+	color:#fafafa;
+	font-size:14px;
+	text-align: center;
+	font-weight:bold;
+	width:80px;
+}
+.downmousecla{
+	background-color:#fafafa;
+	color:#dd8369;
+	font-size:14px;
+	text-align: center;
+	font-weight:bold;
+	width:80px;
+}

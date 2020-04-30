@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+	width:100%;
+	min-width:1004px;	
+}
+#content{
+	width:100%;
+	margin:0 auto;
+}
+#header{
+	width:100%;
+	height:53px;
+	background:url(../images/topbBg.jpg) repeat-x;
+}
+.topLogo{
+	background: url(../images/topLogo.jpg) no-repeat;
+	width:448px;
+	height:53px;
+}
+.error{
+	background:url(../images/top_06.jpg) no-repeat;
+	width:53px;
+	height:53px;
+	border:none;
+	cursor:pointer;
+}
+.main{
+	width:100%;
+	margin:0 auto;
+}
+#leftWrap{
+	width:219px;
+	background:#414a5f;
+	border-right:1px solid #2c354b;
+	float:left;
+	overflow-y:auto;
+}
+.leftCon{
+	border-top:1px solid #5d6579;
+	width:100%;
+	min-height:500px; height:auto;}
+#rightCon{
+	margin-left:220px;
+	overflow:auto;
+	background:#e4e7ec;
+}
+.leftConUl{
+	width:215px;
+	margin:10px 0 0 0px;
+
+}
+.leftConUl li{
+	line-height:46px;
+	padding-left:20px;
+
+}
+
+.leftConUl li img{
+	vertical-align:middle;
+	margin-right:8px;
+}
+.leftConUl .leftConli>a{
+	color:#afb8cb;
+	font-family:"微软雅黑";
+	font-size:14px;
+	font-weight:bold;
+
+}
+.leftConli{
+	background:url(../images/leftBg_03.png) no-repeat;}
+
+.leftConliOn{
+	background: url(../images/leftNavOn.png) no-repeat;
+	width:199px;
+	line-height:46px;
+}
+.leftConUl .leftConliOn>a{
+	color:#fff;
+}
+.leftNavUl{
+	width:200px;
+	margin-left:-15px;
+	}
+.leftNavUl .leftNavli{
+	line-height:30px;
+}
+.leftConUl .leftConli .leftNavUl .leftNavli a{
+	font-weight:none;
+	color:#e4e9f4;
+	font-size:14px;
+	font-family:"微软雅黑";
+}
+.leftConUl .leftConli .leftNavUl .leftNavli a:hover{
+	color:#dd8268;}
+.rightWz{
+	height:39px;
+	border-top:1px solid #fff;
+	width:100%;
+	line-height:39px;
+}
+.rightWz ul{
+	height:30px;
+	padding:0 8px;
+	margin:3px 0;
+}
+.rightWz ul li{
+	display:inline-block;
+	line-height:32px;
+	padding:0 8px;
+	color:#fff;
+	font-family:"微软雅黑";
+	font-size:14px;
+	background:#10a8ab;
+}
+.tabBg{
+	background:#f3f4f5;
+}
+.bgTu{
+	background:url(../images/bgTu_03.png) no-repeat top center;
+	margin:0 auto;
+	width:300px;
+	height:300px;
+	margin-top:80px;
+	text-align:center;
+	padding-top:140px;
+}
+.bgTu p{
+	color:#8e9298;
+	font-family:"微软雅黑";
+	font-size:24px;
+	}

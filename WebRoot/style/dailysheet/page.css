@@ -1,0 +1,2093 @@
+header {
+	height: 77px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px;
+}
+.header {
+	height: 77px; -moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px;
+}
+header .logo {
+	height: 42px; font-size: 12px;
+}
+header .logo_hr {
+	height: 42px; font-size: 12px;
+}
+header .logo div {
+	float: right;
+}
+header .logo ul {
+	float: right;
+}
+header .logo_hr div {
+	float: right;
+}
+header .logo_hr ul {
+	float: right;
+}
+header .logo ul {
+	padding-top: 1px; margin-left: 15px;
+}
+header .logo_hr ul {
+	padding-top: 1px; margin-left: 15px;
+}
+header .logo li {
+	width: 50px; height: 41px; line-height: 42px; float: left; display: inline-block;
+}
+header .logo_hr li {
+	width: 50px; height: 41px; line-height: 42px; float: left; display: inline-block;
+}
+header .logo li a {
+	height: 41px; text-indent: -9999px; display: block; background-repeat: no-repeat;
+}
+header.Limis ul li a {
+	height: 41px; text-indent: -9999px; display: block; background-repeat: no-repeat;
+}
+header .logo_hr li a {
+	height: 41px; text-indent: -9999px; display: block; background-repeat: no-repeat;
+}
+header .logo li a.home {
+	background-position: 0px 0px;
+}
+header.Limis ul li a.home {
+	background-position: 0px 0px;
+}
+header .logo_hr li a.home {
+	background-position: 0px 0px;
+}
+header .logo li.selected a.home {
+	background-position: 0px -41px;
+}
+header.Limis ul li.selected a.home {
+	background-position: 0px -41px;
+}
+header .logo_hr li.selected a.home {
+	background-position: 0px -41px;
+}
+header .logo li a.help {
+	background-position: -51px 0px;
+}
+header.Limis ul li a.help {
+	background-position: -51px 0px;
+}
+header .logo_hr li a.help {
+	background-position: -51px 0px;
+}
+header .logo li.selected a.help {
+	background-position: -51px -41px;
+}
+header.Limis ul li.selected a.help {
+	background-position: -51px -41px;
+}
+header .logo_hr li.selected a.home {
+	background-position: -51px -41px;
+}
+header .logo li a.download {
+	background-position: -102px 0px;
+}
+header.Limis ul li a.download {
+	background-position: -102px 0px;
+}
+header .logo_hr li a.download {
+	background-position: -102px 0px;
+}
+header .logo li.selected a.download {
+	background-position: -102px -41px;
+}
+header.Limis ul li.selected a.download {
+	background-position: -102px -41px;
+}
+header .logo_hr li.selected a.download {
+	background-position: -102px -41px;
+}
+header .logo li a.mail {
+	background-position: -153px 0px;
+}
+header.Limis ul li a.mail {
+	background-position: -153px 0px;
+}
+header .logo_hr li a.mail {
+	background-position: -153px 0px;
+}
+header .logo li.selected a.mail {
+	background-position: -153px -41px;
+}
+header.Limis ul li.selected a.mail {
+	background-position: -153px -41px;
+}
+header .logo_hr li.selected a.mail {
+	background-position: -153px -41px;
+}
+header .logo li a.logout {
+	background-position: -204px 0px;
+}
+header.Limis ul li a.logout {
+	background-position: -204px 0px;
+}
+header .logo_hr li a.logout {
+	background-position: -204px 0px;
+}
+header .logo li.selected a.logout {
+	background-position: -204px -41px;
+}
+header.Limis ul li.selected a.logout {
+	background-position: -204px -41px;
+}
+header .logo_hr li.selected a.logout {
+	background-position: -204px -41px;
+}
+header .logo li a.sys {
+	background-position: -255px 0px;
+}
+header.Limis ul li a.sys {
+	background-position: -255px 0px;
+}
+header .logo_hr li a.sys {
+	background-position: -255px 0px;
+}
+header .logo li.selected a.sys {
+	background-position: -255px -41px;
+}
+header.Limis ul li.selected a.sys {
+	background-position: -255px -41px;
+}
+header .logo_hr li.selected a.sys {
+	background-position: -255px -41px;
+}
+header .user {
+	padding-top: 12px;
+}
+header .user select {
+	border: currentColor; border-image: none;
+}
+header .user b {
+	line-height: 24px; float: left;
+}
+header .user span {
+	line-height: 24px; float: left;
+}
+header .user a {
+	line-height: 24px; float: left;
+}
+header .user a {
+	margin-left: 5px;
+}
+header .user a i {
+	width: 0px; height: 42px; padding-left: 16px; margin-left: 5px; float: right;
+}
+header .color {
+	width: 31px; height: 42px;
+}
+header nav {
+	height: 33px; line-height: 30px; padding-left: 18px; font-size: 13px; font-weight: bold;
+}
+header nav ul {
+	padding-top: 4px; position: relative;
+}
+header nav ul li {
+	padding-left: 6px; margin-right: 2px; float: left; display: inline;
+}
+header nav ul li a {
+	height: 30px; line-height: 30px;
+}
+header nav ul li a span {
+	height: 30px; line-height: 30px;
+}
+header nav ul li a {
+	padding-right: 6px;
+}
+header nav ul li a span {
+	padding: 0px 6px;
+}
+header nav ul li:hover {
+	background-position: left top; background-repeat: no-repeat;
+}
+header nav ul li.selected {
+	background-position: left top; background-repeat: no-repeat;
+}
+header nav ul li:hover a {
+	background-position: right -60px; background-repeat: no-repeat;
+}
+header nav ul li.selected a {
+	background-position: right -60px; background-repeat: no-repeat;
+}
+header nav ul li:hover a span {
+	background-position: left -30px; background-repeat: repeat-x;
+}
+header nav ul li.selected a span {
+	background-position: left -30px; background-repeat: repeat-x;
+}
+.gen_search {
+	width: 205px; margin-right: 3px; margin-bottom: 2px; margin-left: 1px; position: relative;
+}
+.gen_search .l_t {
+	position: absolute; background-repeat: no-repeat; _overflow: hidden;
+}
+.gen_search .r_t {
+	position: absolute; background-repeat: no-repeat; _overflow: hidden;
+}
+.gen_search .l_b {
+	position: absolute; background-repeat: no-repeat; _overflow: hidden;
+}
+.gen_search .r_b {
+	position: absolute; background-repeat: no-repeat; _overflow: hidden;
+}
+.gen_search .l_t {
+	width: 5px; height: 4px;
+}
+.gen_search .r_t {
+	width: 5px; height: 4px;
+}
+.gen_search .l_t {
+	background-position: left top; left: 0px; top: 0px;
+}
+.gen_search .r_t {
+	background-position: right top; top: 0px; right: 0px;
+}
+.gen_search .l_b {
+	width: 5px; height: 5px;
+}
+.gen_search .r_b {
+	width: 5px; height: 5px;
+}
+.gen_search .l_b {
+	background-position: left bottom; left: 0px; bottom: 0px;
+}
+.gen_search .r_b {
+	background-position: right bottom; right: 0px; bottom: 0px;
+}
+.gen_search .s_t {
+	margin-right: 5px; margin-left: 5px; background-repeat: repeat-x; _overflow: hidden;
+}
+.gen_search .s_b {
+	margin-right: 5px; margin-left: 5px; background-repeat: repeat-x; _overflow: hidden;
+}
+.gen_search .s_l {
+	background-repeat: repeat-y;
+}
+.gen_search .s_r {
+	background-repeat: repeat-y;
+}
+.gen_search .s_r {
+	background-position: right top; padding-right: 5px; margin-left: 5px;
+}
+.gen_search .s_l {
+	background-position: left top;
+}
+.gen_search .s_t {
+	background-position: left top; height: 4px;
+}
+.gen_search .s_b {
+	background-position: left bottom; height: 5px;
+}
+.gen_search .s_r .con {
+	padding: 5px 8px;
+}
+.sidebar {
+	padding: 1px; width: 195px; margin-bottom: 5px;
+}
+.sidebar {
+	margin-left: 4px;
+}
+.support {
+	margin-left: 4px;
+}
+.sidebar ul li h4 {
+	height: 35px; line-height: 35px; font-weight: bold; display: block;
+}
+.sidebar ul li a {
+	padding-left: 26px;
+}
+.sidebar .menuOne ul {
+	padding: 1px 0px;
+}
+.sidebar .menuOne ul li {
+	line-height: 30px; font-size: 13px; font-weight: bold;
+}
+.sidebar .menuOne ul li span {
+	width: 211px; height: 30px;
+}
+.sidebar .menuOne ul li a {
+	background-position: 2px 5px; padding-left: 36px; display: block; background-repeat: no-repeat;
+}
+.sidebar .menuOne ul ul {
+	
+}
+.sidebar .menuOne ul ul i {
+	left: 25px; top: 0px; width: 20px; height: 12px; z-index: 99;
+}
+.sidebar .menuOne ul ul li {
+	height: 30px; font-size: 12px; font-weight: normal; margin-bottom: 1px;
+}
+.sidebar .menuOne ul ul li a {
+	overflow: hidden; padding-left: 51px; display: block;
+}
+.sidebar .menuOne ul li ul li.selected a {
+	font-weight: bold;
+}
+.main {
+	margin: 0px 2px 2px 0px; min-width: 800px;
+}
+.ctrl {
+	width: 100%; height: 35px; font-size: 12px; position: fixed; z-index: 9999;
+}
+.ctrl .posi {
+	line-height: 30px; margin-left: 12px; display: inline-block;
+}
+.ctrl .posi {
+	display: inline-block; white-space: nowrap;
+}
+.ctrl .lit_nav {
+	display: inline-block; white-space: nowrap;
+}
+.ctrl .posi ul {
+	display: inline-block; white-space: nowrap;
+}
+.ctrl .posi ul li {
+	display: inline-block; white-space: nowrap;
+}
+.ctrl .lit_nav ul {
+	display: inline-block; white-space: nowrap;
+}
+.ctrl .lit_nav li {
+	display: inline-block; white-space: nowrap;
+}
+.ctrl .posi ul li {
+	padding: 0px 16px 0px 4px; float: left;
+}
+.ctrl .posi ul li.fin {
+	background: none;
+}
+.ctrl .lit_nav li {
+	margin: 6px 6px 0px; width: 22px; height: 21px; float: left;
+}
+.ctrl .lit_nav li a {
+	text-indent: -999px; overflow: hidden; display: block; background-repeat: no-repeat;
+}
+.ctrl .lit_nav li a.print {
+	background-position: 0px -438px;
+}
+.panel_6 li a.print {
+	background-position: 0px -438px;
+}
+.ctrl .lit_nav li a.storage {
+	background-position: 0px -478px;
+}
+.ctrl .lit_nav li a.chat {
+	background-position: 0px -118px;
+}
+.ctrl .lit_nav li a.rss {
+	background-position: 0px -518px;
+}
+.ctrl .lit_nav li a.query {
+	background-position: 0px -558px;
+}
+.ctrl .lit_nav li a.express {
+	background-position: 0px -1158px;
+}
+.ctrl .lit_nav li a.table {
+	background-position: 0px -358px;
+}
+.ctrl .lit_nav li a.treeOpen {
+	background-position: 0px -1198px;
+}
+.ctrl .lit_nav li a.filterClose {
+	background-position: 0px -1114px;
+}
+.ctrl .lit_nav li a.filterOpen {
+	background-position: 0px -1074px;
+}
+aside {
+	width: 25%; float: left; display: inline;
+}
+aside .panel_1 {
+	padding: 1px; margin-right: 10px; margin-bottom: 10px;
+}
+aside .panel_2 {
+	padding: 1px; margin-right: 10px; margin-bottom: 10px;
+}
+aside hgroup {
+	height: 58px; padding-left: 70px; position: relative;
+}
+aside hgroup.weather {
+	background-position: 6px -106px;
+}
+aside hgroup.calendar {
+	background-position: 6px -3px;
+}
+aside hgroup.stats_2 {
+	background-position: 6px -54px;
+}
+aside hgroup h3 {
+	line-height: 35px;
+}
+aside hgroup h5 {
+	padding-top: 16px; font-weight: normal;
+}
+aside hgroup h6 {
+	line-height: 15px; font-weight: normal;
+}
+.view h6 {
+	line-height: 15px; font-weight: normal;
+}
+aside ul li a {
+	overflow: hidden; font-size: 10.5pt; white-space: nowrap; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis;
+}
+aside ul.topic {
+	margin: 8px auto 15px; width: 88%;
+}
+aside ul.topic li {
+	line-height: 31px; overflow: hidden; margin-bottom: 1px;
+}
+aside ul.topic li a {
+	padding-left: 25px;
+}
+aside ul.qa li dt {
+	padding-left: 25px;
+}
+aside ul.list {
+	padding: 8px 6px;
+}
+aside ul.qa {
+	padding: 8px 6px;
+}
+aside .con {
+	padding: 8px 6px;
+}
+aside ul.stats_2 {
+	padding: 8px 6px;
+}
+aside ul.qa li dd {
+	padding-left: 37px; font-size: 12px;
+}
+aside ul.list li {
+	padding: 0px 5px 0px 15px; line-height: 30px; overflow: hidden;
+}
+aside ul.list li a.w {
+	width: 60%; margin-left: 4px;
+}
+aside ul.qa li {
+	padding: 0px 5px; line-height: 30px; overflow: hidden;
+}
+aside ul.xx li {
+	padding: 0px 3px; width: 64px; height: 80px; text-align: center; line-height: 16px; font-size: 11px; float: left; display: inline-block;
+}
+aside ul.xx li dt {
+	height: 64px; background-repeat: no-repeat;
+}
+aside ul.xx dt.d1 {
+	background-position: 0px 0px;
+}
+aside ul.xx dt.d2 {
+	background-position: -64px 0px;
+}
+aside ul.xx dt.d3 {
+	background-position: -128px 0px;
+}
+aside ul.xx dt.d4 {
+	background-position: 0px -64px;
+}
+aside ul.xx dt.d5 {
+	background-position: -64px -64px;
+}
+aside ul.xx dt.d6 {
+	background-position: 0px -128px;
+}
+aside ul.xx dt.d7 {
+	background-position: 0px -128px;
+}
+aside ul.xx dt.d8 {
+	background-position: -64px -128px;
+}
+aside ul.xx dt.d9 {
+	background-position: -128px -128px;
+}
+aside ul.xx dt.d10 {
+	background-position: 0px -192px;
+}
+aside a.more_1 {
+	top: 0px; width: 55px; height: 18px; text-align: center; right: 4px; color: rgb(255, 255, 255); line-height: 14px; display: block; position: absolute;
+}
+aside ul.item li {
+	padding: 1px; height: 48px; margin-right: 10px; float: left;
+}
+aside ul.stats_2 li {
+	padding-left: 20px; font-size: 14px; margin-bottom: 1px; opacity: 0.7; background-repeat: no-repeat; -moz-opacity: 0.70;
+}
+aside ul.stats_2 li h1 {
+	display: inline;
+}
+aside ul.stats_2 li h6 {
+	display: inline;
+}
+aside ul.stats_2 li.green {
+	background-position: 5px -900px;
+}
+aside ul.stats_2 li.yellow {
+	background-position: 5px -940px;
+}
+aside ul.stats_2 li.red {
+	background-position: 5px -980px;
+}
+aside ul.stats_2 li.blue {
+	background-position: 5px -1020px;
+}
+aside .con p {
+	padding: 0px 8px 8px; height: 162px; line-height: 24px; text-indent: 24px; overflow: hidden; font-size: 14px;
+}
+.right_main {
+	width: 75%; float: left;
+}
+.right_main .news {
+	margin-right: 10px;
+}
+.right_main .panel_3 {
+	margin-right: 10px;
+}
+.right_main .panel_4 {
+	margin-right: 10px;
+}
+.news {
+	margin-bottom: 10px; margin-left: 5px;
+}
+.news_l {
+	padding: 12px 11px 0px 12px; height: 276px;
+}
+.news .focusPic {
+	width: 355px; height: 264px; overflow: hidden; margin-right: 16px; position: relative;
+}
+.news .focusPic .fp_list {
+	height: 239px; overflow: hidden; position: relative;
+}
+.news .focusPic .fp_list li {
+	display: inline;
+}
+.news .focusPic .fp_list img {
+	width: 353px; height: 237px; overflow: hidden; cursor: pointer;
+}
+.news .focusPic img {
+	width: 353px; height: 237px; overflow: hidden; cursor: pointer;
+}
+.news .focusPic .word {
+	left: 1px; width: 343px; height: 28px; bottom: 24px; line-height: 28px; overflow: hidden; padding-left: 10px; position: absolute; z-index: 100; opacity: 0.8; -moz-opacity: 0.80;
+}
+.news .focusPic .word li {
+	width: 375px; text-align: left;
+}
+.news .focusPic .word li {
+	font-size: 14px; font-weight: bold;
+}
+.news .focusPic .scrollnav {
+	left: 110px; top: 246px; position: absolute; z-index: 999;
+}
+.news .focusPic .scrollnav li {
+	margin: 0px 3px; width: 0px; height: 0px; overflow: hidden; padding-top: 11px; padding-left: 12px; float: left; cursor: pointer; background-repeat: no-repeat;
+}
+.news hgroup h2 {
+	line-height: 22px; padding-right: 16px; font-weight: normal;
+}
+.news hgroup h6 {
+	line-height: 22px; padding-right: 16px; font-weight: normal;
+}
+.news hgroup h2 {
+	font-style: italic;
+}
+.news hgroup p {
+	margin: 1px 0px; height: 20px; line-height: 20px; padding-right: 10px;
+}
+a.more_2 {
+	padding-right: 15px;
+}
+.news section {
+	line-height: 24px; padding-right: 24px;
+}
+.news .txt_list {
+	line-height: 24px; padding-right: 24px;
+}
+.news section h5 {
+	overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis;
+}
+.news .txt_list li a {
+	overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis;
+}
+.panel_3 .con li a {
+	overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis;
+}
+.news section p {
+	height: 48px; text-indent: 28px; overflow: hidden; font-size: 14px;
+}
+.news .txt_list li {
+	height: 24px; padding-left: 10px;
+}
+.news .txt_list li a {
+	width: 80%; margin-right: 12px; float: left; display: block;
+}
+.news .txt_list li span {
+	width: 15%; text-align: right; overflow: hidden; font-size: 11px; float: right; white-space: nowrap;
+}
+.panel_3 {
+	margin: 0px 10px; padding: 1px;
+}
+.panel_3 header {
+	height: 36px; border-bottom-color: rgb(89, 153, 193); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.panel_3 header h5 {
+	line-height: 37px; padding-left: 43px;
+}
+.panel_4 header h5 {
+	line-height: 37px; padding-left: 43px;
+}
+h5.meeting {
+	background-repeat: no-repeat;
+}
+h5.wlist1 {
+	background-repeat: no-repeat;
+}
+h5.wlist2 {
+	background-repeat: no-repeat;
+}
+h5.richeng {
+	background-repeat: no-repeat;
+}
+h5.announce {
+	background-repeat: no-repeat;
+}
+h5.meeting {
+	background-position: left top;
+}
+h5.wlist1 {
+	background-position: left -200px;
+}
+h5.wlist2 {
+	background-position: left -100px;
+}
+h5.richeng {
+	background-position: left -50px;
+}
+h5.announce {
+	background-position: left -150px;
+}
+.panel_3 .con {
+	padding: 10px 10px 4px 0px; overflow: hidden;
+}
+/**
+.panel_3 .con {
+	padding: 10px 10px 4px 0px; overflow: hidden; min-height: 96px;
+}
+**/
+.panel_3 .con li {
+	width: 45%; line-height: 24px; padding-left: 12px; margin-left: 10px; float: left; display: inline;
+}
+.panel_3 .con ul.wd {
+	height: 160px; overflow: hidden;
+}
+.panel_3 .con ul.full li {
+	width: 95%;
+}
+.panel_3 .con ul.wd li {
+	width: 95%; line-height: 18px; padding-left: 12px; margin-bottom: 2px; margin-left: 10px; float: left; min-height: 24px; max-height: 36px;
+}
+.panel_3 .con ul.wd li a {
+	width: 100%; white-space: normal; -ms-word-wrap: break-word;
+}
+.panel_3 .up a {
+	padding-left: 16px; margin-right: 5px; background-repeat: no-repeat;
+}
+.panel_3 .down a {
+	padding-left: 16px; margin-right: 5px; background-repeat: no-repeat;
+}
+.panel_3 .up a {
+	background-position: left -754px;
+}
+.panel_3 .down a {
+	background-position: left -794px;
+}
+.panel_3 .con li a {
+	width: 80%; float: left;
+}
+.panel_3 .con li span {
+	font-size: 11px; float: right;
+}
+.News_list .list dt span {
+	font-size: 11px; float: right;
+}
+.panel_3 .con li span {
+	width: 40px;
+}
+#dtb tr.tit td {
+	font-weight: bold;
+}
+#dtb {
+	line-height: 24px;
+}
+#dtb a {
+	padding-left: 12px;
+}
+#dtb tr.jgtit td {
+	text-align: center; font-weight: bold;
+}
+#dtb tr.jgtit td {
+	padding: 0px 3px;
+}
+a.more_3 {
+	width: 40px; height: 18px; line-height: 18px; padding-left: 9px; margin-right: 9px;
+}
+footer {
+	border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(90, 150, 225) rgb(90, 150, 225); padding: 2px 3px 0px; border-image: none; height: 32px; line-height: 30px; overflow: hidden; font-size: 12px;
+}
+footer div {
+	padding: 0px 8px;
+}
+footer .counter {
+	font-size: 11px;
+}
+footer span {
+	font-weight: bold; display: inline;
+}
+footer .tel {
+	top: 1px; height: 30px; right: 0px; padding-left: 30px; margin-top: 0px; margin-right: 20px; position: absolute;
+}
+footer .tel b {
+	display: inline;
+}
+.tabs_1 {
+	height: 27px; line-height: 27px; margin-top: 10px; margin-right: 10px;
+}
+.tabs_1 ul li {
+	padding-left: 25px; font-size: 14px; float: left; display: inline-block;
+}
+.tabs_2 ul li {
+	padding-left: 25px; font-size: 14px; float: left; display: inline-block;
+}
+.tabs_1 .pre {
+	padding: 0px; width: 27px; text-align: center; text-indent: -9999px; background-repeat: no-repeat;
+}
+.tabs_1 .next {
+	padding: 0px; width: 27px; text-align: center; text-indent: -9999px; background-repeat: no-repeat;
+}
+.tabs_1 .pre a {
+	width: 0px; text-indent: -999px; overflow: hidden; padding-left: 27px;
+}
+.tabs_1 .next a {
+	width: 0px; text-indent: -999px; overflow: hidden; padding-left: 27px;
+}
+.tabs_1 ul li a {
+	padding-right: 25px; display: block;
+}
+.tabs_1 ul li a span {
+	height: 27px;
+}
+.tabs_2 {
+	height: 25px; padding-left: 5px;
+}
+.tabs_2 ul {
+	bottom: -1px; white-space: nowrap; position: relative;
+}
+.tabs_2 ul li {
+	margin: 0px 1px; line-height: 25px; display: inline-block;
+}
+.tabs_2 ul li a {
+	padding-right: 25px; display: block;
+}
+.tabs_2 ul li a span {
+	height: 25px; font-weight: bold;
+}
+.filter {
+	padding-bottom: 1px; font-size: 14px;
+}
+.filter_sandglass {
+	background-position: right top;
+}
+.filter_search {
+	background-position: right -320px;
+}
+.filter_tips {
+	background-position: right -640px;
+}
+.filter .query td {
+	padding: 3px 5px;
+}
+.filter .fn {
+	padding: 5px 12px; height: 25px;
+}
+.filter .fn h5 a.colSelect {
+	background-position: right -1236px; line-height: 25px; padding-right: 22px; font-size: 14px; font-weight: bold; background-repeat: no-repeat;
+}
+.table_1 .tfoot td {
+	padding: 0px 8px; height: 25px; line-height: 25px;
+}
+.table_1 td {
+	padding: 3px 5px;
+}
+.table_2 td {
+	padding: 3px 5px;
+}
+.table_1 .tit td {
+	padding: 0px; overflow: hidden; font-weight: bold; white-space: nowrap;
+}
+.table_1 .tit td.sort {
+	padding: 0px 5px;
+}
+.table_1 .tit td.sort a i {
+	background-position: left -680px; margin: 6px 0px; width: 10px; height: 7px; float: right; background-repeat: no-repeat;
+}
+.table_1 .tit td.sort a:hover i {
+	background-position: left -687px;
+}
+.table_1 .pager li {
+	margin: 3px 2px; height: 18px; line-height: 18px; float: right;
+}
+.table_1 .pager li a {
+	padding: 0px 6px; font-weight: bold; display: block;
+}
+.table_1 .tit ul {
+	padding: 2px 12px 0px; height: 20px; margin-bottom: -1px; position: relative;
+}
+.table_1 .tit ul li {
+	background-position: left top; height: 20px; bottom: -1px; line-height: 20px; padding-left: 3px; font-weight: normal; margin-right: 10px; float: left; display: inline; position: relative; background-repeat: no-repeat;
+}
+.table_1 .tit ul li a {
+	background-position: right bottom; padding-right: 3px; background-repeat: no-repeat;
+}
+.table_1 .tit ul li a span {
+	background-position: left -20px; padding-right: 12px; background-repeat: repeat-x;
+}
+.table_1 .tit ul li a span i {
+	padding-left: 18px; font-style: normal; background-repeat: no-repeat;
+}
+.table_1 .tit ul li.col {
+	background-position: 0px -644px; width: 1px; padding-left: 0px;
+}
+.table_1 .tit ul li a span i.add {
+	background-position: 2px 3px;
+}
+.table_1 .tit ul li a span i.last {
+	background-position: 2px -53px;
+}
+.table_1 .tit ul li a span i.next {
+	background-position: 2px -25px;
+}
+.table_1 .tit ul li a span i.first {
+	background-position: 2px -109px;
+}
+.table_1 .tit ul li a span i.fin {
+	background-position: 2px -81px;
+}
+.table_1 .tit ul li a span i.pre {
+	background-position: 2px -165px;
+}
+.table_1 .tit ul li a span i.bac {
+	background-position: 2px -137px;
+}
+.table_1 .tit ul li a span i.save {
+	background-position: 2px -221px;
+}
+.table_1 .tit ul li a span i.can {
+	background-position: 2px -277px;
+}
+.table_1 .tit ul li a span i.sub {
+	background-position: 2px -305px;
+}
+.table_1 .tit ul li a span i.del {
+	background-position: 2px -193px;
+}
+.table_1 .tit ul li a span i.support {
+	background-position: 2px -249px;
+}
+.hideLayer_1 p {
+	padding: 8px 12px; text-align: left; font-weight: normal;
+}
+.table_1 .tit h5 {
+	padding-left: 16px; margin-right: 15px; float: left;
+}
+.table_2 th h5 {
+	padding-left: 16px; margin-right: 15px; float: left;
+}
+.table_2 th.disable h5 {
+	padding-left: 16px; margin-right: 15px; float: left;
+}
+.table_1 .tit li.button {
+	background: none; top: 0px; width: 22px; height: 21px; right: 12px; position: absolute; z-index: 10;
+}
+.table_1 .tit li.button:hover {
+	background: none; top: 0px; width: 22px; height: 21px; right: 12px; position: absolute; z-index: 10;
+}
+.table_1 .tit li.button a i.add {
+	background-position: 4px 3px;
+}
+.table_1 .tit li.button a i {
+	width: 0px; height: 0px; text-indent: -9999px; padding-top: 21px; padding-left: 22px; font-style: normal; background-repeat: no-repeat;
+}
+.table_1 td.lableTd {
+	width: 15%; white-space: nowrap;
+}
+.table_2 .t_r {
+	width: 15%; white-space: nowrap;
+}
+.lineNum {
+	margin: 0px auto; width: 0px; text-indent: -9999px; padding-left: 22px; background-repeat: no-repeat;
+}
+.l01 {
+	background-position: left 5px;
+}
+.l02 {
+	background-position: left -35px;
+}
+.l03 {
+	background-position: left -75px;
+}
+.l04 {
+	background-position: left -115px;
+}
+.l05 {
+	background-position: left -155px;
+}
+.l06 {
+	background-position: left -195px;
+}
+.l07 {
+	background-position: left -235px;
+}
+.l08 {
+	background-position: left -275px;
+}
+.l09 {
+	background-position: left -315px;
+}
+.l10 {
+	background-position: left -355px;
+}
+.l11 {
+	background-position: left -395px;
+}
+.tree_1 {
+	width: 208px; overflow: auto;
+}
+.bar_1 {
+	width: 8px;
+}
+.tree_1 ul {
+	margin-bottom: 1px;
+}
+.tree_1 ul li h5 {
+	margin-bottom: 1px;
+}
+.tree_1 ul li h5 {
+	padding: 1px 3px 1px 8px; height: 20px; line-height: 20px;
+}
+.tree_1 ul ul li {
+	background-position: 5px top; line-height: 19px; padding-left: 17px; background-repeat: no-repeat;
+}
+.tree_1 ul ul ul li {
+	background-position: 5px top; line-height: 19px; padding-left: 17px; background-repeat: no-repeat;
+}
+.tree_1 ul ul li.fin {
+	background-position: 5px -18px;
+}
+.tree_1 ul ul ul li.fin {
+	background-position: 5px -18px;
+}
+.tree_1 ul ul li a {
+	padding-left: 18px;
+}
+.tree_1 ul ul ul li a {
+	padding-left: 18px;
+}
+.tree_1 ul ul li {
+	overflow: hidden; white-space: nowrap;
+}
+.tree_1 ul ul ul li {
+	overflow: hidden; white-space: nowrap;
+}
+.tree_1 ul ul li.selected {
+	font-weight: bold;
+}
+.tree_1 ul ul ul li.selected {
+	font-weight: bold;
+}
+.panel_4 {
+	margin: 0px 10px;
+}
+.panel_4 header {
+	height: 43px; padding-left: 8px;
+}
+.panel_4 header .tit {
+	padding-right: 8px;
+}
+.panel_4 header .bg {
+	height: 39px; padding-top: 4px;
+}
+.panel_4 .con {
+	padding: 8px 0px; overflow: hidden;
+}
+.panel_4 .con .border_gary {
+	padding: 1px; width: 154px; height: 42px;
+}
+.panel_8 .border_gary_mini {
+	padding: 1px; width: 78px; height: 78px;
+}
+.panel_4 .con .pie {
+	width: 122px; height: 122px; background-repeat: no-repeat;
+}
+.panel_7 .con .pie {
+	width: 122px; height: 122px; background-repeat: no-repeat;
+}
+.panel_4 .con .pie1 {
+	background-position: left top;
+}
+.panel_7 .con .pie1 {
+	background-position: left top;
+}
+.panel_4 .con .pie2 {
+	background-position: -150px top;
+}
+.panel_7 .con .pie2 {
+	background-position: -150px top;
+}
+.panel_4 .con .pie3 {
+	background-position: left top;
+}
+.panel_7 .con .pie3 {
+	background-position: left top;
+}
+.panel_4 .con .pie4 {
+	background-position: left top;
+}
+.panel_7 .con .pie4 {
+	background-position: left top;
+}
+.panel_4 .con .pie5 {
+	background-position: left top;
+}
+.panel_7 .con .pie5 {
+	background-position: left top;
+}
+.panel_4 .con .pie6 {
+	background-position: -750px top;
+}
+.panel_7 .con .pie6 {
+	background-position: -750px top;
+}
+.panel_4 .con .pie7 {
+	background-position: left top;
+}
+.panel_7 .con .pie7 {
+	background-position: left top;
+}
+.panel_4 .con .pie8 {
+	background-position: left top;
+}
+.panel_7 .con .pie8 {
+	background-position: left top;
+}
+.panel_4 .con ul {
+	
+}
+.panel_4 td {
+	
+}
+.panel_8 td {
+	padding-right: 2px; padding-left: 2px;
+}
+.panel_4 h1 {
+	line-height: 26px; font-weight: lighter;
+}
+.panel_4 h3 {
+	line-height: 26px; font-weight: lighter;
+}
+.panel_7 h1 {
+	line-height: 26px; font-weight: lighter;
+}
+.panel_8 h3 {
+	line-height: 26px; font-weight: lighter;
+}
+.panel_8 h2 {
+	line-height: 26px; font-weight: lighter;
+}
+.totle {
+	padding-left: 20px; background-repeat: no-repeat;
+}
+.t_m {
+	background-position: -2px -640px;
+}
+.t_y {
+	background-position: -2px -680px;
+}
+.Alert_1 {
+	margin: 0px 8px 8px; position: relative;
+}
+.A_4 {
+	padding: 8px 18px; height: 120px;
+}
+.A_9 {
+	padding: 0px 18px;
+}
+.A_5 {
+	width: 12px; height: 25px; position: absolute; z-index: 10; background-repeat: no-repeat;
+}
+.A_6 {
+	width: 12px; height: 25px; position: absolute; z-index: 10; background-repeat: no-repeat;
+}
+.A_7 {
+	width: 12px; height: 25px; position: absolute; z-index: 10; background-repeat: no-repeat;
+}
+.A_8 {
+	width: 12px; height: 25px; position: absolute; z-index: 10; background-repeat: no-repeat;
+}
+.A_5 {
+	top: 0px;
+}
+.A_6 {
+	top: 0px;
+}
+.A_7 {
+	bottom: 0px;
+}
+.A_8 {
+	bottom: 0px;
+}
+.A_5 {
+	left: 0px;
+}
+.A_7 {
+	left: 0px;
+}
+.A_6 {
+	right: 0px;
+}
+.A_8 {
+	right: 0px;
+}
+.A_5 {
+	background-position: left top;
+}
+.A_6 {
+	background-position: right -100px;
+}
+.A_7 {
+	background-position: left -150px;
+}
+.A_8 {
+	background-position: right -125px;
+}
+.Alert_1 header {
+	height: 26px; line-height: 26px; backface-visibility: hidden;
+}
+.Alert_1 .line span {
+	font-style: normal; float: left;
+}
+.Alert_1 .line i {
+	font-style: normal; float: left;
+}
+.Alert_1 p b {
+	font-size: 14px;
+}
+.Alert_1 p a {
+	display: inline;
+}
+.A_dot li {
+	margin: 6px 3px; width: 10px; height: 10px; text-indent: -9999px; float: left; display: inline-block; background-repeat: no-repeat;
+}
+.A_dot li.red {
+	background-position: left top;
+}
+.A_dot li.orange {
+	background-position: left -10px;
+}
+.A_dot li.yellow {
+	background-position: left -20px;
+}
+.A_dot li.blue {
+	background-position: left -30px;
+}
+.A_Highcharts {
+	width: 400px; height: 240px;
+}
+.total {
+	height: 40px;
+}
+.total .i_em {
+	width: 154px; height: 40px; position: relative;
+}
+.total .i_full {
+	left: 2px; top: 0px; width: 0px; height: 40px; position: absolute; z-index: 50; max-width: 150px;
+}
+.total h5 {
+	line-height: 20px; padding-top: 15px; margin-left: 12px;
+}
+.total h6 {
+	line-height: 20px; padding-top: 15px; margin-left: 12px;
+}
+.News_list {
+	padding-top: 8px; margin-left: 6px;
+}
+.News_list header {
+	background: none; border-radius: 0px; height: 37px; padding-left: 15px;
+}
+.News_list header h4 {
+	line-height: 37px; font-style: normal; margin-right: 16px;
+}
+.News_list header h5 {
+	line-height: 37px; font-style: normal; margin-right: 16px;
+}
+.News_list .list {
+	padding: 5px 23px; line-height: 24px;
+}
+.News_list .pager {
+	padding: 5px 23px; line-height: 24px;
+}
+.stat_3 {
+	padding: 5px 23px; line-height: 24px;
+}
+.News_list .list li {
+	margin-bottom: 8px;
+}
+.stat_3 dl li {
+	margin-bottom: 8px;
+}
+.News_list .list dt {
+	padding-left: 12px;
+}
+.News_list .list dd {
+	padding-left: 12px;
+}
+.News_list .list dt a {
+	width: 70%; overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis;
+}
+.News_list .list dt a {
+	font-size: 14px; float: left;
+}
+.News_list dt span.type {
+	font-size: 14px; float: left;
+}
+.News_list dt span.type {
+	margin-right: 8px;
+}
+.News_list .list dd {
+	overflow: hidden; max-height: 72px;
+}
+.News_list .list dd span {
+	display: inline;
+}
+.News_list .list dd font {
+	display: inline;
+}
+.News_list .list dt a font {
+	display: inline;
+}
+.News_list header span {
+	display: inline;
+}
+.stat_3 dl dt {
+	display: inline;
+}
+.stat_3 dl dd {
+	display: inline;
+}
+.stat_3 dl li {
+	display: inline;
+}
+.stat_3 dl li a {
+	display: inline;
+}
+.stat_3 dl li span {
+	display: inline;
+}
+.view span {
+	display: inline;
+}
+.zhaiyao a {
+	display: inline;
+}
+.News_list .pager li {
+	margin-left: 5px; float: left; display: inline;
+}
+.News_list .pager li a {
+	padding: 0px 5px;
+}
+.stat_3 dl li span {
+	padding: 0px 5px;
+}
+.view p {
+	font-size: 14px;
+}
+.view img {
+	margin: auto;
+}
+.view .attach {
+	background-position: 10px -480px; padding-left: 30px; background-repeat: no-repeat;
+}
+.view .attach dl {
+	border: currentColor; border-image: none; line-height: 14px; font-size: 11px;
+}
+aside.related {
+	width: 24%; float: left; display: inline;
+}
+aside.related ul.list {
+	margin: 0px 12px;
+}
+.panel_5 {
+	background-position: 0px -82px; background-repeat: repeat-x;
+}
+.panel_5 .tit {
+	background-position: right -41px; height: 41px; background-repeat: no-repeat;
+}
+.panel_5 h4 {
+	background-position: left top; line-height: 41px; padding-left: 32px; background-repeat: no-repeat;
+}
+.panel_5 .con {
+	margin: 1px; padding-bottom: 8px;
+}
+.stat_3 dl {
+	padding-top: 8px;
+}
+.stat_3 dl dt {
+	font-size: 14px; float: left; display: inline-block;
+}
+.stat_3 dl dd {
+	font-size: 14px; float: left; display: inline-block;
+}
+.stat_3 dl li {
+	font-size: 14px; float: left; display: inline-block;
+}
+.stat_3 dl dt {
+	width: 130px; text-align: right; padding-right: 8px; font-weight: bold;
+}
+.stat_3 dl li {
+	margin-right: 10px;
+}
+.stat_3 dd li {
+	width: 120px;
+}
+.stat_3 dd li.mid {
+	width: 180px;
+}
+.stat_3 dd li.long {
+	width: 240px;
+}
+.stat_3 dl li a {
+	padding: 0px 5px;
+}
+.switch_table {
+	width: 9px; height: 25px; margin-right: 5px; margin-left: -2px; background-repeat: no-repeat;
+}
+.switch_table_1 {
+	width: 9px; height: 25px; margin-right: 5px; margin-left: -2px; background-repeat: no-repeat;
+}
+.switch_table {
+	background-position: left top;
+}
+.switch_table_1 {
+	background-position: left -25px;
+}
+.switch_table:hover {
+	background-position: -9px top;
+}
+.switch_table_1:hover {
+	background-position: -9px -25px;
+}
+.Flow .f_bg {
+	padding-top: 16px; padding-left: 5px; position: relative;
+}
+.Flow .logo_1 {
+	width: 238px; height: 22px; margin-bottom: 22px; margin-left: 21px;
+}
+.Flow .gray_bg {
+	width: 850px;
+}
+.Flow .gray_bg2 {
+	padding: 26px 17px 18px;
+}
+.Flow .w_bg {
+	padding: 0px 9px 0px 7px;
+}
+.Flow .Top {
+	padding: 6px 21px; min-height: 700px;
+}
+.Flow h1 {
+	padding: 20px; font-weight: normal;
+}
+.Flow .Step {
+	padding: 8px 18px; border-radius: 7px;
+}
+.Flow .Step ul {
+	font-size: 14px; max-width: 720px;
+}
+.Flow .Step li {
+	padding-right: 38px; float: left; display: inline-block;
+}
+.Flow .Step li dl {
+	height: 101px; position: relative;
+}
+.Flow .Step li dt {
+	background-position: left -200px; width: 32px; height: 49px; text-align: center; margin-left: -3px; background-repeat: no-repeat;
+}
+.Flow .Step li dd {
+	left: -15px; width: 60px; text-align: center; line-height: 20px; margin-left: -3px; position: absolute; z-index: 300;
+}
+.Flow .Step li.pass dt {
+	background-position: left -400px;
+}
+.Flow .Step li.pass {
+	background-position: left -100px;
+}
+.Flow .Step li.on {
+	background-position: left -100px; font-weight: bold;
+}
+.Flow .Step li.on dt {
+	background-position: left -300px;
+}
+.Flow .Step li.fst dt {
+	
+}
+.Flow .Step li.fin {
+	padding-right: 0px;
+}
+.Flow .Step li.fin dl {
+	float: right;
+}
+.Flow .Step li.fin dt {
+	margin-right: -4px;
+}
+.Flow .footer {
+	height: 30px; padding-top: 12px;
+}
+.f_bg .Divab1 {
+	left: 810px; top: 212px; width: 273px; right: 0px; position: absolute; z-index: 99;
+}
+.panel_6 {
+	padding-left: 32px; margin-bottom: 25px; position: relative; min-height: 140px;
+}
+.panel_6 .divH {
+	background-position: left top; padding-top: 8px;
+}
+.panel_6 .divF {
+	background-position: -250px top; height: 8px;
+}
+.panel_6 .divH {
+	background-repeat: no-repeat;
+}
+.panel_6 .divF {
+	background-repeat: no-repeat;
+}
+.panel_6 .divT {
+	background-repeat: no-repeat;
+}
+.panel_6 ul.button li {
+	background-repeat: no-repeat;
+}
+.panel_6 li a.print {
+	background-repeat: no-repeat;
+}
+.panel_6 li a.tips {
+	background-repeat: no-repeat;
+}
+.panel_6 li a.ywbl {
+	background-repeat: no-repeat;
+}
+.panel_6 li a.imp {
+	background-repeat: no-repeat;
+}
+.panel_6 li a.exp {
+	background-repeat: no-repeat;
+}
+.panel_6 li a.jk {
+	background-repeat: no-repeat;
+}
+.f_window .close {
+	background-repeat: no-repeat;
+}
+.panel_6 .divB {
+	background-position: -500px top; padding: 12px; min-height: 160px; background-repeat: repeat-y;
+}
+.panel_6 .divT {
+	left: 0px; top: 16px; width: 40px; height: 102px; text-align: center; padding-top: 16px; position: absolute; z-index: 199; background-repeat: no-repeat;
+}
+.panel_6 .divT_c {
+	left: 0px; top: 16px; width: 40px; height: 102px; text-align: center; padding-top: 16px; position: absolute; z-index: 199; background-repeat: no-repeat;
+}
+.panel_6 .divT {
+	background-position: -750px top;
+}
+.panel_6 .divT_c {
+	background-position: -960px top;
+}
+.panel_6 .more_4 a {
+	background-position: -800px 16px; width: 0px; height: 0px; text-indent: -9999px; padding-top: 35px; padding-left: 40px; background-repeat: no-repeat;
+}
+.panel_6 a.icon {
+	padding: 2px 9px; height: 14px; background-repeat: no-repeat;
+}
+.panel_6 a.icon_1 {
+	background-position: 10px -758px;
+}
+.panel_6 a.icon_2 {
+	background-position: 10px -798px;
+}
+.panel_6 h5 {
+	padding-bottom: 4px;
+}
+.panel_6 h5 .fr {
+	padding-top: 1px; font-size: 12px; font-weight: normal; display: inline;
+}
+.panel_6 h5 .fr span {
+	padding-top: 1px; font-size: 12px; font-weight: normal; display: inline;
+}
+.panel_6 ul.list li {
+	line-height: 22px; overflow: hidden; padding-left: 16px; max-height: 44px;
+}
+.panel_6 .con {
+	padding-top: 8px;
+}
+.panel_6 ul.button li {
+	background-position: -850px top; margin: 3px 6px; padding: 1px 9px; width: 73px; height: 21px; line-height: 20px; float: left;
+}
+.panel_6 ul.button li a {
+	padding-left: 20px;
+}
+.panel_6 li a.tips {
+	background-position: 0px -838px;
+}
+.panel_6 li a.ywbl {
+	background-position: 0px -958px;
+}
+.panel_6 li a.imp {
+	background-position: 0px -878px;
+}
+.panel_6 li a.exp {
+	background-position: 0px -918px;
+}
+.panel_6 li a.jk {
+	background-position: 0px -998px;
+}
+.panel_6 dl {
+	padding: 3px;
+}
+.References {
+	padding: 4px 15px; position: relative;
+}
+.References .arrow {
+	background-position: -450px -50px; left: 20px; top: -9px; width: 20px; height: 11px; position: absolute; z-index: 100; background-repeat: no-repeat;
+}
+.table_2 th {
+	height: 30px; padding-left: 25px;
+}
+.table_2 th h5 {
+	line-height: 28px;
+}
+.table_2 th.disable h5 {
+	line-height: 28px;
+}
+.table_2 th ul {
+	padding-top: 11px;
+}
+.table_2 th li {
+	background-repeat: no-repeat;
+}
+.table_2 th li a {
+	background-repeat: no-repeat;
+}
+.table_2 th li {
+	background-position: left top; padding-left: 2px; float: left;
+}
+.table_2 th li a {
+	background-position: 0px -38px; padding-right: 2px;
+}
+.table_2 th li span {
+	background-position: 0px -19px; padding: 0px 8px; height: 19px; background-repeat: repeat-x;
+}
+.table_2 th li.selected {
+	background-position: 0px -57px;
+}
+.table_2 th li.selected a {
+	background-position: 0px -95px;
+}
+.table_2 th li.selected span {
+	background-position: 0px -76px;
+}
+.table_2 td {
+	line-height: 22px;
+}
+.table_2 p {
+	text-indent: 24px;
+}
+.view p {
+	text-indent: 24px;
+}
+.table_2 th span a {
+	width: 15px; height: 18px; text-indent: -9999px;
+}
+.table_2 span.plus a {
+	width: 15px; height: 18px; text-indent: -9999px;
+}
+.table_2 th.disable span a {
+	background-position: left -119px; background-repeat: no-repeat;
+}
+.table_2 th.disable span a.open {
+	background-position: left -141px;
+}
+.table_2 span.plus a {
+	background-position: left -158px; background-repeat: no-repeat;
+}
+.table_2 span.plus a.open {
+	background-position: left -178px;
+}
+.transparent {
+	left: 0px; top: 0px; width: 100%; position: absolute; z-index: 999; opacity: 0.3; -moz-opacity: 0.3;
+}
+.f_window {
+	margin: 120px 150px 0px; border-radius: 6px; width: 490px; position: absolute; z-index: 9999;
+}
+.f_window h3 {
+	padding: 0px 12px; height: 44px; line-height: 43px;
+}
+.f_window .close {
+	background-position: left -1025px; width: 20px; height: 20px; text-indent: -9999px; padding-top: 14px;
+}
+.f_window .con {
+	padding: 12px;
+}
+.f_window .button {
+	padding: 12px;
+}
+.f_window .con {
+	font-size: 14px;
+}
+.f_window .con td {
+	padding: 3px;
+}
+.f_window .con .td_1 {
+	width: 18px;
+}
+.f_window .con .pl18 {
+	font-size: 12px;
+}
+.f_window .con a {
+	margin-left: 8px; display: inline;
+}
+.node {
+	margin: 0px 12px; padding: 5px 0px;
+}
+.node .con {
+	margin-left: 30px;
+}
+.node .t_r {
+	width: 100%;
+}
+.node span {
+	display: inline;
+}
+.node a {
+	display: inline;
+}
+.node .dis {
+	padding-left: 20px; background-repeat: no-repeat;
+}
+.node .fw {
+	padding-left: 20px; background-repeat: no-repeat;
+}
+.node .dis {
+	background-position: left -120px;
+}
+.node .fw {
+	background-position: left -960px;
+}
+.Login .mainDiv {
+	background-position: center -301px; margin: 0px auto; width: 980px; height: 566px; position: relative;
+}
+.Login .logo {
+	background-position: left -223px; left: 215px; top: 158px; width: 277px; height: 77px; position: absolute; z-index: 10;
+}
+.Login .loginBox {
+	background-position: left 10px; left: 576px; top: 116px; width: 300px; position: absolute; z-index: 50; min-height: 300px;
+}
+.Login .mainDiv {
+	background-repeat: no-repeat;
+}
+.Login .logo {
+	background-repeat: no-repeat;
+}
+.Login .loginBox {
+	background-repeat: no-repeat;
+}
+.Login hgroup {
+	padding-left: 45px; margin-bottom: 32px;
+}
+.Login hgroup h3 {
+	
+}
+.Login hgroup h6 {
+	
+}
+.Login .loginBox .field {
+	padding-top: 8px; padding-left: 35px;
+}
+.Login .loginBox .field label {
+	width: 60px; text-align: right; padding-right: 10px; font-size: 14px; display: inline-block;
+}
+.Login .loginBox .saveCk {
+	overflow: hidden; padding-top: 8px; padding-left: 109px; margin-bottom: 8px;
+}
+.Login .loginBox .saveCk label {
+	display: inline-block;
+}
+.Login .loginBox .subBox {
+	padding-left: 104px;
+}
+.Login .cr {
+	top: 512px; width: 998px; height: 31px; line-height: 31px; position: absolute;
+}
+.panel_7 {
+	background-position: left -132px; background-repeat: no-repeat;
+}
+.panel_7 .p_right {
+	background-position: right -203px; background-repeat: no-repeat;
+}
+.panel_7 hgroup {
+	background-position: left -276px; height: 67px; padding-right: 4px; padding-left: 4px; margin-right: 3px; margin-left: 3px; background-repeat: repeat-x;
+}
+.panel_7 .hgroup {
+	background-position: left -276px; height: 67px; padding-right: 4px; padding-left: 4px; margin-right: 3px; margin-left: 3px; background-repeat: repeat-x;
+}
+.panel_7 .text {
+	background-position: left -48px; padding-top: 3px; padding-right: 5px; padding-left: 20px; background-repeat: no-repeat;
+}
+.panel_7 .text h3 {
+	padding-top: 3px;
+}
+.panel_7 .setting {
+	background-position: left -24px; width: 42px; height: 24px; background-repeat: no-repeat;
+}
+.panel_7 .setting:hover {
+	background-position: left top;
+}
+.panel_7 .setting a {
+	background-position: 13px -909px; height: 24px; text-indent: -9999px; background-repeat: no-repeat;
+}
+.panel_7 .setting:hover a {
+	background-position: 13px -937px;
+}
+.panel_7 .con {
+	padding: 2px; position: relative;
+}
+.panel_7 .con li span {
+	width: 60px; text-align: right; float: left;
+}
+.panel_7 span {
+	overflow: hidden; display: inline-block;
+}
+.panel_7 b {
+	overflow: hidden; display: inline-block;
+}
+.panel_7 i {
+	overflow: hidden; display: inline-block;
+}
+.panel_4 span {
+	overflow: hidden; display: inline-block;
+}
+.panel_4 b {
+	overflow: hidden; display: inline-block;
+}
+.panel_4 i {
+	overflow: hidden; display: inline-block;
+}
+.panel_7 p {
+	padding: 10px 12px;
+}
+.panel_4 p.gk {
+	padding: 10px 12px;
+}
+.w1280 .panel_7 p {
+	width: 200px;
+}
+.w1024 .panel_7 p {
+	width: 130px;
+}
+.w1280 .panel_7 ul {
+	min-width: 200px;
+}
+.w1024 .panel_7 ul {
+	width: 180px;
+}
+.panel_7 .list p {
+	width: 95%;
+}
+.panel_7 .list .con {
+	padding: 6px 8px; position: relative;
+}
+.panel_7 .con .conner {
+	background-position: right -106px; width: 27px; height: 27px; right: -4px; bottom: -4px; position: absolute; background-repeat: no-repeat;
+}
+.panel_7 .data {
+	cursor: pointer;
+}
+.ItemFlow {
+	background-position: left top; padding: 13px 0px 13px 30px; height: 88px; overflow: hidden; min-width: 933px; background-repeat: repeat-x;
+}
+.ItemFlow .gray_bg {
+	width: 930px; height: 88px; position: relative;
+}
+.ItemFlow .blueBg {
+	left: 80px; height: 88px; position: absolute; z-index: 0; min-width: 2px; max-width: 747px;
+}
+.ItemFlow .gray_bg .pie {
+	width: 117px; height: 121px; overflow: hidden; float: left; display: inline-block; white-space: nowrap; position: relative;
+}
+.ItemFlow .gray_bg .pie .zs {
+	left: -17px; top: -14px; width: 121px; height: 121px; position: absolute;
+}
+.Divider {
+	background-position: left top; margin: 0px 10px; width: 954px; padding-top: 10px; position: relative; background-repeat: no-repeat;
+}
+.Divider .arrow {
+	background-position: -450px top; left: 60px; top: -9px; width: 20px; height: 11px; position: absolute; z-index: 100; background-repeat: no-repeat;
+}
+.Divider .bottom {
+	background-position: -2000px bottom; padding-bottom: 10px; background-repeat: no-repeat;
+}
+.Divider .con {
+	background-position: -1000px top; padding: 0px 10px; background-repeat: repeat-y;
+}
+.Divider h5 {
+	background-position: -4px -418px; padding-left: 12px; background-repeat: no-repeat;
+}
+.Divider p {
+	width: 880px; overflow: hidden; font-size: 12px; white-space: nowrap; -ms-word-break: break-all; -ms-text-overflow: ellipsis;
+}
+.Divider ul {
+	background-position: left -124px; height: 40px; overflow: hidden; float: left; max-width: 880px; background-repeat: repeat-x;
+}
+.Divider ul li {
+	width: 71px; height: 40px; line-height: 38px; padding-left: 34px; font-size: 12px; font-weight: bold; margin-right: 5px; float: left; display: inline-block; white-space: nowrap; background-repeat: no-repeat;
+}
+.Divider ul li.fst {
+	width: 83px; padding-left: 24px;
+}
+.Divider ul li.fin {
+	margin-right: 0px; float: right;
+}
+.Divider ul li {
+	background-position: -150px -50px;
+}
+.Divider ul li.selected {
+	background-position: -150px -150px;
+}
+.Divider ul li.disable {
+	background-position: -150px -100px;
+}
+.Divider ul li.alert {
+	background-position: -150px top;
+}
+.Divider ul li.po1 {
+	background-position: left -50px;
+}
+.Divider ul li.fst_alert {
+	background-position: left top;
+}
+.Divider ul li.fst_going {
+	background-position: left -150px;
+}
+.Divider ul li.fst_dis {
+	background-position: left -100px;
+}
+.Divider ul li.fin_alert {
+	background-position: -300px top;
+}
+.Divider ul li.fin_normal {
+	background-position: -300px -50px;
+}
+.Divider ul li.fin_dis {
+	background-position: -300px -100px;
+}
+.Divider ul li.fin_going {
+	background-position: -300px -150px;
+}
+.table_3 .tit {
+	line-height: 25px; padding-left: 8px; font-weight: bold;
+}
+.table_3 li {
+	width: 230px; overflow: hidden; margin-right: 10px; float: left; display: inline; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.table_3 li span {
+	display: inline;
+}
+.panel_8 .tit span {
+	line-height: 32px;
+}
+.panel_8 .block {
+	background-repeat: repeat-x;
+}
+.panel_8 .block_selected {
+	background-repeat: repeat-x;
+}
+.panel_8 .block {
+	background-position: left -500px;
+}
+.panel_8 .block_selected {
+	background-position: left top;
+}
+.panel_8 .block:hover {
+	background-position: left top;
+}
+.panel_8 .corner {
+	background-repeat: no-repeat;
+}
+.panel_8 .categories a {
+	background-repeat: no-repeat;
+}
+.panel_8 .corner {
+	background-position: right bottom;
+}
+.panel_8 .categories a {
+	background-position: right -995px; padding-right: 12px; margin-right: 12px; margin-bottom: 3px;
+}
+.panel_8 .gray_border {
+	margin: 0px 1px 1px 0px;
+}
+.panel_8 .con {
+	padding: 0px;
+}
+.panel_8 dl {
+	padding: 2px 8px;
+}
+.panel_8 .con li span {
+	text-align: left; font-size: 11px;
+}
+.panel_8 .con li dt {
+	padding: 3px 8px; height: 27px; float: left;
+}
+.panel_8 .con li dd {
+	padding: 3px 8px; height: 27px; float: left;
+}
+.panel_8 .con li dt {
+	line-height: 26px; font-size: 11px;
+}
+.panel_8 .con td h6 {
+	text-align: right; font-style: normal; font-weight: lighter; float: right;
+}
+.panel_8 li {
+	line-height: 20px;
+}
+.panel_8 .r_bor {
+	height: 40px; padding-top: 10px; padding-right: 8px; padding-left: 8px;
+}
+.panel_8 .l_bor {
+	height: 40px; padding-top: 10px; padding-right: 8px; padding-left: 8px;
+}
+.panel_8 .attention {
+	padding-right: 55px;
+}
+.jttt {
+	background-position: left -50px; margin-right: 20px; margin-left: 10px; background-repeat: repeat-x;
+}
+.jttt_l {
+	background-repeat: no-repeat;
+}
+.jttt_r {
+	background-repeat: no-repeat;
+}
+.jttt_l {
+	background-position: left top;
+}
+.jttt_r {
+	background-position: right -100px; height: 44px; line-height: 40px; overflow: hidden; padding-right: 10px; padding-left: 150px; font-size: 12px;
+}
+.jttt h5 {
+	margin: 0px 20px 0px 0px; height: 40px; overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis;
+}
+.jttt .con {
+	margin: 0px 20px 0px 0px; height: 40px; overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis; -o-text-overflow: ellipsis;
+}
+.w1280 .jttt .con {
+	padding-right: 20px;
+}
+.w1024 .jttt .con {
+	max-width: 180px;
+}
+.mail_1 {
+	width: 21px; background-repeat: no-repeat;
+}
+.mail_new {
+	background-position: 7px -114px;
+}
+.mail_read {
+	background-position: 7px 3px;
+}
+.mail_for {
+	background-position: 7px -37px;
+}
+.mail_re {
+	background-position: 7px -77px;
+}
+.close_2 {
+	padding: 4px 0px; top: 180px; width: 9px; height: 43px; position: absolute; z-index: 999; background-repeat: no-repeat;
+}
+.open_2 {
+	padding: 4px 0px; top: 180px; width: 9px; height: 43px; position: absolute; z-index: 999; background-repeat: no-repeat;
+}
+.close_2 a {
+	width: 0px; height: 0px; text-indent: -9999px; padding-top: 43px; padding-left: 9px;
+}
+.open_2 a {
+	width: 0px; height: 0px; text-indent: -9999px; padding-top: 43px; padding-left: 9px;
+}
+.close_2 {
+	background-position: left -51px; left: 202px; float: right;
+}
+.close_2:hover {
+	background-position: left -153px;
+}
+.open_2 {
+	background-position: left top; left: 0px; float: left;
+}
+.open_2:hover {
+	background-position: left -102px;
+}
+.js_bg {
+	background-position: 80px 0px; margin: 0px 10px; padding: 0px 80px; background-repeat: no-repeat;
+}
+.js_bg .con {
+	background-position: right -130px; padding: 6px 30px; height: 118px; background-repeat: no-repeat;
+}
+.zc .num {
+	background-position: left -880px; width: 15px; height: 16px; text-align: center; line-height: 16px; padding-left: 1px; margin-top: 5px; display: inline; background-repeat: no-repeat;
+}
+h5.xx {
+	height: 14px; line-height: 14px; padding-left: 12px;
+}
+h5.xx span {
+	padding: 0px 10px; display: inline;
+}
+.panel_3 .con div.xx img {
+	width: 161px; height: 104px;
+}
+.panel_3 .liveuser {
+	width: 24.2%;
+}
+.panel_3 .liveuser h4 {
+	margin: 8px;
+}
+.panel_3 .liveuser ul {
+	margin: 8px;
+}
+.panel_3 .QAA {
+	width: 75.8%;
+}
+.panel_3 .QAA header input {
+	margin: 3px 5px; height: 29px;
+}
+.panel_3 .QAA .con {
+	padding: 8px;
+}
+.panel_3 .QAA h4 {
+	padding-left: 8px;
+}
+.panel_3 .QAA ul.full a {
+	font-weight: bold;
+}
+.panel_3 .liveuser ul {
+	line-height: 23px; padding-left: 20px;
+}
+.panel_3 .liveuser .ID {
+	font-size: 14px; float: left;
+}
+.panel_3 .liveuser span {
+	display: inline;
+}

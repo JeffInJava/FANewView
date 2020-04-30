@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+	<title>选择树</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="js/css/zTreeStyle/zTreeStyle.css" type="text/css">
+	<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery.ztree.core.min.js"></script>
+	<script type="text/javascript" src="js/jquery.ztree.excheck.min.js"></script>
+	<script type="text/javascript" src="js/choose-tree.js"></script>
+	<!--
+	<script type="text/javascript" src="js/jquery.ztree.exedit.min.js"></script>
+	-->
+	<script type="text/javascript">
+		
+		$(document).ready(function(){
+			var setting={
+				expand:true,
+				chooseTreeId:"choose-tree",
+				displayTreeId:"display-tree"
+			};
+			var tree = $.fn.treeChoose(setting);
+
+			$("#btn").bind("click",function(){
+				$("#output").html(JSON.stringify(tree.CheckedData()));
+			});
+		});
+		//-->
+	</script>
+	<style>
+		#choose-tree,#display-tree{float: left;}
+	</style>
+</head>
+
+<body>
+<div>
+	<ul id="choose-tree" class="ztree"></ul>
+	<ul id="display-tree" class="ztree"></ul>
+	<div>
+		<input id="btn" type="button" value="导出数据">
+	</div>
+	<div id="output">
+	</div>
+</div>
+</body>
+</HTML>

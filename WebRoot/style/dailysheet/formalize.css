@@ -1,0 +1,372 @@
+.input_tiny {
+	width: 50px;
+}
+.input_small {
+	width: 100px;
+}
+.input_medium {
+	width: 127px;
+}
+.input_large {
+	width: 160px;
+}
+.input_xlarge {
+	width: 250px;
+}
+.input_xxlarge {
+	width: 300px;
+}
+.input_full {
+	width: 100%;
+}
+.input_full_wrap {
+	padding-right: 8px; display: block;
+}
+input[type='radio'] {
+	top: 3px; vertical-align: top; position: relative;
+}
+input[type='checkbox'] {
+	top: 3px; vertical-align: top; position: relative;
+}
+@media not all
+{
+input[type='radio'] {
+	top: 2px; vertical-align: baseline;
+}
+input[type='checkbox'] {
+	top: 2px; vertical-align: baseline;
+}
+}
+@media not all
+{
+input[type='radio'] {
+	top: 0px; vertical-align: baseline;
+}
+input[type='checkbox'] {
+	top: 0px; vertical-align: baseline;
+}
+}
+@media not all
+{
+input[type='radio'] {
+	top: 0px; vertical-align: baseline;
+}
+input[type='checkbox'] {
+	top: 0px; vertical-align: baseline;
+}
+}
+input {
+	margin: 0px; vertical-align: middle;
+}
+button {
+	margin: 0px; vertical-align: middle;
+}
+select {
+	margin: 0px; vertical-align: middle;
+}
+textarea {
+	margin: 0px; vertical-align: middle;
+}
+button:focus {
+	z-index: 1; box-shadow: 0px 0px 7px 0px #0066ff; -moz-box-shadow: #0066ff 0 0 7px 0; -webkit-box-shadow: #0066ff 0 0 7px 0; -o-box-shadow: #0066ff 0 0 7px 0;
+}
+input:focus {
+	z-index: 1; box-shadow: 0px 0px 7px 0px #0066ff; -moz-box-shadow: #0066ff 0 0 7px 0; -webkit-box-shadow: #0066ff 0 0 7px 0; -o-box-shadow: #0066ff 0 0 7px 0;
+}
+select:focus {
+	z-index: 1; box-shadow: 0px 0px 7px 0px #0066ff; -moz-box-shadow: #0066ff 0 0 7px 0; -webkit-box-shadow: #0066ff 0 0 7px 0; -o-box-shadow: #0066ff 0 0 7px 0;
+}
+textarea:focus {
+	z-index: 1; box-shadow: 0px 0px 7px 0px #0066ff; -moz-box-shadow: #0066ff 0 0 7px 0; -webkit-box-shadow: #0066ff 0 0 7px 0; -o-box-shadow: #0066ff 0 0 7px 0;
+}
+input[type='file']:focus {
+	box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none;
+}
+input[type='file']:active {
+	box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none;
+}
+input[type='radio']:focus {
+	box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none;
+}
+input[type='radio']:active {
+	box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none;
+}
+input[type='checkbox']:focus {
+	box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none;
+}
+input[type='checkbox']:active {
+	box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none;
+}
+button {
+	background: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221)) repeat-x left top rgb(221, 221, 221); border-width: 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(187, 187, 187) rgb(153, 153, 153); font: bold 12px/1.3 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif; padding: 3px 10px; outline: 0px; border-radius: 4px; border-image: none; width: auto; color: rgb(51, 51, 51); overflow: visible; cursor: pointer; font-size-adjust: none; font-stretch: normal; text-shadow: 0px 1px 1px white; -webkit-appearance: none; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; -ms-border-radius: 4px; -khtml-border-radius: 4px; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box;
+}
+input[type='reset'] {
+	background: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221)) repeat-x left top rgb(221, 221, 221); border-width: 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(187, 187, 187) rgb(153, 153, 153); font: bold 12px/1.3 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif; padding: 3px 10px; outline: 0px; border-radius: 4px; border-image: none; width: auto; color: rgb(51, 51, 51); overflow: visible; cursor: pointer; font-size-adjust: none; font-stretch: normal; text-shadow: 0px 1px 1px white; -webkit-appearance: none; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; -ms-border-radius: 4px; -khtml-border-radius: 4px; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box;
+}
+input[type='submit'] {
+	background: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221)) repeat-x left top rgb(221, 221, 221); border-width: 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(187, 187, 187) rgb(153, 153, 153); font: bold 12px/1.3 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif; padding: 3px 10px; outline: 0px; border-radius: 4px; border-image: none; width: auto; color: rgb(51, 51, 51); overflow: visible; cursor: pointer; font-size-adjust: none; font-stretch: normal; text-shadow: 0px 1px 1px white; -webkit-appearance: none; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; -ms-border-radius: 4px; -khtml-border-radius: 4px; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box;
+}
+input[type='button'] {
+	background: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221)) repeat-x left top rgb(221, 221, 221); border-width: 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(187, 187, 187) rgb(153, 153, 153); font: bold 12px/1.3 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif; padding: 3px 10px; outline: 0px; border-radius: 4px; border-image: none; width: auto; color: rgb(51, 51, 51); overflow: visible; cursor: pointer; font-size-adjust: none; font-stretch: normal; text-shadow: 0px 1px 1px white; -webkit-appearance: none; -moz-border-radius: 4px; -webkit-border-radius: 4px; -o-border-radius: 4px; -ms-border-radius: 4px; -khtml-border-radius: 4px; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box;
+}
+button:hover {
+	background-image: linear-gradient(rgb(255, 255, 255), rgb(238, 238, 238) 1px, rgb(204, 204, 204));
+}
+input[type='reset']:hover {
+	background-image: linear-gradient(rgb(255, 255, 255), rgb(238, 238, 238) 1px, rgb(204, 204, 204));
+}
+input[type='submit']:hover {
+	background-image: linear-gradient(rgb(255, 255, 255), rgb(238, 238, 238) 1px, rgb(204, 204, 204));
+}
+input[type='button']:hover {
+	background-image: linear-gradient(rgb(255, 255, 255), rgb(238, 238, 238) 1px, rgb(204, 204, 204));
+}
+button:active {
+	border-color: rgb(153, 153, 153) rgb(187, 187, 187) rgb(221, 221, 221); box-shadow: inset 0px 1px 2px 0px rgba(0,0,0,0.25); background-image: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221) 1px, rgb(238, 238, 238)); -moz-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -webkit-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -o-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0;
+}
+input[type='reset']:active {
+	border-color: rgb(153, 153, 153) rgb(187, 187, 187) rgb(221, 221, 221); box-shadow: inset 0px 1px 2px 0px rgba(0,0,0,0.25); background-image: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221) 1px, rgb(238, 238, 238)); -moz-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -webkit-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -o-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0;
+}
+input[type='submit']:active {
+	border-color: rgb(153, 153, 153) rgb(187, 187, 187) rgb(221, 221, 221); box-shadow: inset 0px 1px 2px 0px rgba(0,0,0,0.25); background-image: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221) 1px, rgb(238, 238, 238)); -moz-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -webkit-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -o-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0;
+}
+input[type='button']:active {
+	border-color: rgb(153, 153, 153) rgb(187, 187, 187) rgb(221, 221, 221); box-shadow: inset 0px 1px 2px 0px rgba(0,0,0,0.25); background-image: linear-gradient(rgb(255, 255, 255), rgb(221, 221, 221) 1px, rgb(238, 238, 238)); -moz-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -webkit-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0; -o-box-shadow: inset rgba(0, 0, 0, 0.25) 0 1px 2px 0;
+}
+button {
+	
+}
+textarea {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+select {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='date'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='datetime'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='datetime-local'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='email'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='month'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='number'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='password'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='search'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='tel'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='text'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='time'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='url'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+input[type='week'] {
+	border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px; outline: 0px; border-radius: 0px; border-image: none; height: 1.8em; text-align: left; color: black; font-family: Arial, "Liberation Sans", FreeSans, sans-serif; font-size: 13px; box-sizing: border-box; background-clip: padding-box; background-color: white; -webkit-appearance: none; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; -moz-background-clip: padding; -webkit-background-clip: padding; -o-background-clip: padding-box; -ms-background-clip: padding-box; -khtml-background-clip: padding-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box;
+}
+textarea[disabled] {
+	background-color: rgb(238, 238, 238);
+}
+select[disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='date'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='datetime'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='datetime-local'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='email'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='month'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='number'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='password'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='search'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='tel'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='text'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='time'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='url'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+input[type='week'][disabled] {
+	background-color: rgb(238, 238, 238);
+}
+button[disabled] {
+	color: rgb(136, 136, 136); cursor: default; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; -moz-user-select: -moz-none; -webkit-user-select: none; -khtml-user-select: none; user-select: none;
+}
+input[disabled] {
+	color: rgb(136, 136, 136); cursor: default; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; -moz-user-select: -moz-none; -webkit-user-select: none; -khtml-user-select: none; user-select: none;
+}
+select[disabled] {
+	color: rgb(136, 136, 136); cursor: default; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; -moz-user-select: -moz-none; -webkit-user-select: none; -khtml-user-select: none; user-select: none;
+}
+select[disabled] option {
+	color: rgb(136, 136, 136); cursor: default; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; -moz-user-select: -moz-none; -webkit-user-select: none; -khtml-user-select: none; user-select: none;
+}
+select[disabled] optgroup {
+	color: rgb(136, 136, 136); cursor: default; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; -moz-user-select: -moz-none; -webkit-user-select: none; -khtml-user-select: none; user-select: none;
+}
+textarea[disabled] {
+	color: rgb(136, 136, 136); cursor: default; box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; -moz-user-select: -moz-none; -webkit-user-select: none; -khtml-user-select: none; user-select: none;
+}
+input.placeholder_text {
+	color: rgb(136, 136, 136);
+}
+textarea.placeholder_text {
+	color: rgb(136, 136, 136);
+}
+:invalid {
+	box-shadow: none; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none;
+}
+textarea {
+	height: auto;
+}
+select[size] {
+	height: auto;
+}
+select[multiple] {
+	height: auto;
+}
+@media not all
+{
+select {
+	background-position: right; padding-right: 20px; background-image: url("images/select_arrow.gif"); background-repeat: no-repeat;
+}
+select[size] {
+	padding: 0px; background-image: none;
+}
+select[multiple] {
+	padding: 0px; background-image: none;
+}
+}
+textarea {
+	width: 100%; overflow: auto; min-height: 40px; resize: vertical;
+}
+optgroup {
+	color: black; font-style: normal; font-weight: normal;
+}
+.ie6_button {
+	background: url("images/tabs_1_on.png") repeat-x left -597px rgb(221, 221, 221); border-width: 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(187, 187, 187) rgb(153, 153, 153); font: bold 12px/1.2 Arial, sans-serif; padding: 2px 10px 0px; border-image: none; width: auto; color: rgb(51, 51, 51); overflow: visible; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+* html button {
+	background: url("images/tabs_1_on.png") repeat-x left -597px rgb(221, 221, 221); border-width: 1px; border-style: solid; border-color: rgb(221, 221, 221) rgb(187, 187, 187) rgb(153, 153, 153); font: bold 12px/1.2 Arial, sans-serif; padding: 2px 10px 0px; border-image: none; width: auto; color: rgb(51, 51, 51); overflow: visible; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+* html button {
+	padding-top: 1px; padding-bottom: 1px;
+}
+.ie6_input {
+	background: white; border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px 1px; border-image: none; color: black; font-family: Arial, sans-serif; font-size: 13px; vertical-align: top;
+}
+* html textarea {
+	background: white; border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px 1px; border-image: none; color: black; font-family: Arial, sans-serif; font-size: 13px; vertical-align: top;
+}
+* html select {
+	background: white; border-width: 1px; border-style: solid; border-color: rgb(132, 132, 132) rgb(193, 193, 193) rgb(225, 225, 225); padding: 2px 3px 1px; border-image: none; color: black; font-family: Arial, sans-serif; font-size: 13px; vertical-align: top;
+}
+* html select {
+	margin-top: 1px;
+}
+.placeholder_text {
+	color: rgb(136, 136, 136);
+}
+.ie6_input_disabled {
+	color: rgb(136, 136, 136);
+}
+.ie6_button_disabled {
+	color: rgb(136, 136, 136);
+}
+.ie6_input_disabled {
+	background: rgb(238, 238, 238);
+}
+.gen_search input[type='search'] {
+	background-position: 0px -558px; height: 25px; padding-left: 20px; background-image: url("images/icon_1.png"); background-repeat: no-repeat;
+}
+.gen_search button {
+	background: url("images/g_s_button.png"); border-radius: 0px; border: currentColor; border-image: none; width: 51px; height: 25px; color: rgb(255, 255, 255); text-shadow: 1px 1px 3px #44748d; -moz-border-radius: 0px; -webkit-border-radius: 0px; -o-border-radius: 0px; -ms-border-radius: 0px; -khtml-border-radius: 0px;
+}
+.gen_search input[type='button'] {
+	background: url("images/g_s_button.png"); border-radius: 0px; border: currentColor; border-image: none; width: 51px; height: 25px; color: rgb(255, 255, 255); text-shadow: 1px 1px 3px #44748d; -moz-border-radius: 0px; -webkit-border-radius: 0px; -o-border-radius: 0px; -ms-border-radius: 0px; -khtml-border-radius: 0px;
+}
+.gen_search input[type='submit'] {
+	background: url("images/g_s_button.png"); border-radius: 0px; border: currentColor; border-image: none; width: 51px; height: 25px; color: rgb(255, 255, 255); text-shadow: 1px 1px 3px #44748d; -moz-border-radius: 0px; -webkit-border-radius: 0px; -o-border-radius: 0px; -ms-border-radius: 0px; -khtml-border-radius: 0px;
+}
+.table_1 .pager button {
+	background: rgb(124, 170, 213); padding: 0px; border: currentColor; border-image: none; width: 18px; height: 16px; line-height: 16px;
+}
+.table_1 .pager input[type='reset'] {
+	background: rgb(124, 170, 213); padding: 0px; border: currentColor; border-image: none; width: 18px; height: 16px; line-height: 16px;
+}
+.table_1 .pager input[type='submit'] {
+	background: rgb(124, 170, 213); padding: 0px; border: currentColor; border-image: none; width: 18px; height: 16px; line-height: 16px;
+}
+.table_1 .pager input[type='button'] {
+	background: rgb(124, 170, 213); padding: 0px; border: currentColor; border-image: none; width: 18px; height: 16px; line-height: 16px;
+}
+input[type='number'] {
+	border: 1px solid rgb(124, 170, 213); border-image: none; height: 17px; line-height: 12px; font-size: 11px;
+}
+.date {
+	background-position: right -718px; padding-right: 20px; background-image: url("images/icon_1.png"); background-repeat: no-repeat;
+}
+.Login .loginBox button {
+	background: url("images/LOGIN.png") no-repeat left top; margin: 5px; width: 100px; height: 28px; color: rgb(255, 255, 255); font-size: 14px; text-shadow: 0px 0px 1px #333;
+}
+.Login .loginBox input[type='submit'] {
+	background: url("images/LOGIN.png") no-repeat left top; margin: 5px; width: 100px; height: 28px; color: rgb(255, 255, 255); font-size: 14px; text-shadow: 0px 0px 1px #333;
+}
+.Login .loginBox input[type='reset'] {
+	background: url("images/LOGIN.png") no-repeat left top; margin: 5px; width: 100px; height: 28px; color: rgb(255, 255, 255); font-size: 14px; text-shadow: 0px 0px 1px #333;
+}
+.Login .loginBox input[type='button'] {
+	background: url("images/LOGIN.png") no-repeat left top; margin: 5px; width: 100px; height: 28px; color: rgb(255, 255, 255); font-size: 14px; text-shadow: 0px 0px 1px #333;
+}
+.Login .loginBox button:hover {
+	background-position: -120px top;
+}
+.Login .loginBox input[type='submit']:hover {
+	background-position: -120px top;
+}
+.Login .loginBox input[type='reset']:hover {
+	background-position: -120px top;
+}
+.Login .loginBox input[type='button']:hover {
+	background-position: -120px top;
+}
+input[type='text'].b_n {
+	border-top-color: currentColor; border-right-color: currentColor; border-left-color: currentColor; border-top-width: medium; border-right-width: medium; border-left-width: medium; border-top-style: none; border-right-style: none; border-left-style: none;
+}

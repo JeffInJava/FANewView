@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jsontag_config>
+	<!--请求参数的编码格式 -->
+	<request-param-encoding>utf-8</request-param-encoding>
+	<!-- jtLog日志的模式 -->
+	<jt-log-mode>false</jt-log-mode>
+	<!--DEBUG模式 -->
+	<debug-mode>false</debug-mode>
+	<!--根据权限命名自动生成访问的url的模式 -->
+	<!-- <auto-url-mode>true</auto-url-mode> -->
+	<vos-package>
+		<list>
+<!--			<value>jkuser.vo</value>-->
+<!--			<value>jkworkflow.vo</value>-->
+			<value>com.gmoa.vos</value>
+		</list>
+	</vos-package>
+
+	<!--关键属性追踪 -->
+	<!-- <core-parameters-tracke>true</core-parameters-tracke> -->
+
+	<!--全局异常提示 -->
+	<!-- <exception-prompt>对不起系统正忙,请稍后再试!</exception-prompt> -->
+
+
+
+
+	<sequence>
+		<sequence-mode>local</sequence-mode>
+		<step-length>100</step-length> <!--此属性与local模式共用 -->
+	</sequence>
+
+	<!--数据库相关 -->
+	<session-factory-spring-bean-name>mySessionFactory
+	</session-factory-spring-bean-name>
+	<data-source-bean-name>dataSourceTarget</data-source-bean-name>
+
+	<!--文件上传的缓冲区 -->
+	<upload-file-buffer-size>20971520</upload-file-buffer-size>
+
+	<!--同步请求异常全局跳转页面 -->
+	<global-results>
+		<list>
+			<result name="jsontag.exception.TokenException">/mycommon/errorpage/token_err.jsp</result>
+			<result name="java.lang.Exception">/index.jsp</result>
+		</list>
+	</global-results>
+
+	<!-- 在线日志 -->
+	<online-log>
+		<!-- 日志文件的文件夹 -->
+		<log-folder-path>f:\var\log\</log-folder-path>
+		<!-- 可以读取的日志文件的最大行数 -->
+		<log-max-line>1000</log-max-line>
+	</online-log>
+
+	<!-- 数据字典 -->
+	<data-dict>
+
+	</data-dict>
+
+<!--	<net-transport>-->
+<!--		<protocol>http</protocol>-->
+<!--		<host>127.0.0.1</host>-->
+<!--		<port>8080</port>-->
+<!--		 连接超时时间,单位:毫秒 -->
+<!--		<connect-timeout>5000</connect-timeout>-->
+<!--		 得到数据的超时时间,单位:毫秒 -->
+<!--		<get-data-timeout>500000</get-data-timeout>-->
+<!--	</net-transport>-->
+
+<!--	<open-office>-->
+		<!-- 设置OpenOffice安装目录,根文件夹即可 -->
+<!--		<home>/opt/openoffice4</home>-->
+			<!-- 设置OpenOffice服务启动端口 -->
+<!--		<port>8100</port>-->
+			<!-- 设置OpenOffice任务执行超时时间,单位为分钟 -->
+<!--		<task-execution-timeout>5</task-execution-timeout>-->
+			<!-- 设置OpenOffice任务队列执行超时时间,单位为小时 -->
+<!--		<task-queue-timeout>20</task-queue-timeout>-->
+<!--	</open-office>-->
+</jsontag_config>

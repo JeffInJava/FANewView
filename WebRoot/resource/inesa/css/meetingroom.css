@@ -1,0 +1,89 @@
+.meeting-room .head .left,
+.meeting-room .head .center,
+.meeting-room .head .right
+{
+	height: 60px;
+}
+.meeting-room .head .left .text,
+.meeting-room .head .right .text
+{
+	font-size: 16px;
+	font-weight: bolder;
+	margin-top: 15px;
+}
+.meeting-room .head .left,
+.meeting-room .head .center,
+.meeting-room .head .right,
+.meeting-room .content .left,
+.meeting-room .content .center,
+.meeting-room .content .right
+{
+	border: 1px solid #dddddd;
+	padding: 0px 0px 0px 0px;
+}
+.meeting-room .content .left,
+.meeting-room .content .right
+{
+	text-align: center;
+}
+.meeting-room .head
+{
+	color: #9B90A0;
+}
+.meeting-room .content
+{
+	color: #2E6589;
+}
+.cell
+{
+	width: 9.0909%;
+	float: left;
+	border: 1px dotted #dddddd;
+}
+.meeting-room .content .left .side-cell
+{
+	border-left: 1px solid #dddddd;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+}
+.meeting-room .content .right .side-cell
+{
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	border-right: 1px solid #dddddd;
+}
+.meeting-room .head .center .top
+{
+	/*height: 36px;*/
+	font-size: 26px;
+}
+.meeting-room .head .center .bottom .cell
+{
+	border: 1px solid #dddddd;
+	text-align: center;
+	background-color: #ECF2F7;
+}
+.meeting-room .head .center .bottom .first
+{
+	border-radius: 6px 0 0 0;
+}
+.meeting-room .head .center .bottom .last
+{
+	border-radius: 0 6px 0 0;
+}
+.meeting-schedule
+{
+	background-color: #DC143C;
+	border-right: none;
+	border-left: none;
+}
+.meeting-room .choose
+{
+	background-color: #33dd33;
+	border-right: none;
+	border-left: none;
+}
+.meeting-room .enable 
+{
+	cursor: pointer;
+}

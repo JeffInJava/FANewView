@@ -1,0 +1,130 @@
+.app-wrapper{
+	min-width: 980px;
+	height: 636px;
+	background: url(../../images/index-app/bg.png) no-repeat center center;
+}
+
+.main{
+	position: relative;
+	max-width: 1180px;
+	height: 636px;
+	margin: 0 auto;
+	
+}
+
+.phone-area{
+	position: absolute;
+	width: 643px;
+	height: 694px;
+	background: url(../../images/index-app/phone.png) no-repeat;
+}
+
+.title-area{
+	position: absolute;
+	top: 130px;
+	right: 2%;
+	width: 457px;
+	height: 112px;
+	background: url(../../images/index-app/title.png) no-repeat;
+}
+
+.version-area{
+	position: absolute;
+	top: 290px;
+	right: 2%;
+}
+
+.v-iphone{
+	display: inline-block;
+	width: 167px;
+	height: 60px;
+	background: url(../../images/index-app/iphone.png) no-repeat;
+	cursor: pointer;
+}
+
+.v-iphone.hover{
+	background: url(../../images/index-app/iphone_h.png) no-repeat;
+}
+
+.v-android{
+	display: inline-block;
+	width: 167px;
+	height: 60px;
+	background: url(../../images/index-app/android.png) no-repeat;
+	cursor: pointer;
+}
+
+.v-android.hover{
+	background: url(../../images/index-app/android_h.png) no-repeat;
+}
+
+.qrcode-area{
+	position: absolute;
+	top: 400px;
+	right: 2%;
+}
+
+.qrcode-s{
+	display: inline-block;
+	width: 72px;
+	height: 160px;
+	background: url(../../images/index-app/s.png) no-repeat;
+}
+
+.qrcode-android{
+	display: inline-block;
+	width: 160px;
+	height: 160px;
+	background: url(../../images/index-app/qrcode-android.png) no-repeat;
+	margin-left: 8px;
+}
+
+.qrcode-ios{
+	display: inline-block;
+	width: 160px;
+	height: 160px;
+	background: url(../../images/index-app/qrcode-ios.png) no-repeat;
+	margin-left: 8px;
+}
+
+
+.app-services{
+	display: block;
+	list-style: none;
+	min-width: 980px;
+	max-width: 1180px;
+	margin: 0 auto;
+	border-right: 1px dotted #B2B2B2;
+	padding: 0;
+}
+
+.app-services:after{
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+.app-services li{
+	position: relative;
+	display: inline;
+	float: left;
+	width: 19.95%;
+	height: 250px;
+	margin-left: -1px;
+	padding: 50px 0 0;
+	text-align: center;
+	font-size: 14px;
+	font-family: "Microsoft Yahei";
+	color: #666;
+	border-left: 1px dotted #B2B2B2;
+}
+
+
+
+
+
+
+
+
+

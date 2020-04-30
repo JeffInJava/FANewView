@@ -1,0 +1,519 @@
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	font-family: "Microsoft YaHei","微软雅黑","宋体";
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1030px;
+  }
+}		
+body{
+	font-size: 12px;
+	font-family: 'microsoft yahei',sans-serif;
+	background: white;
+}
+.nav{
+	position: relative;
+	width: 100%;
+	height: 70px;
+	background: #e04628;
+	border: 0;
+}
+.wrapper{
+	background-color: #f5f5f5;
+}
+.logo-area{
+	position: absolute;
+	bottom: 10px;
+}
+.main-nav{
+	float: right; 
+	line-height: 70px;
+}
+.main-nav li{
+	padding: 0;
+	float: left;
+}
+.main-nav a{
+	display: block;
+	padding: 0 40px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+	text-decoration: none;
+}
+.main-nav .active a {
+	background-color: #bd3115;
+}	
+.main-nav a:hover {
+	background-color: #d43e20;
+	color: #fff;
+}	
+
+.carousel{
+	margin-bottom: 20px;
+}
+
+.advise{
+	padding: 20px 0 10px 0;
+}
+
+.advise-left{
+	width: 680px;
+}
+
+.advise-left h2{
+	font-size: 36px;
+	color: #2f374c;
+	padding: 0 0 10px 0;
+}
+
+.advise-left p{
+	font-size: 14px;
+	color: #797979;
+}
+
+.advise-right{
+	margin-top: 20px;
+	width: 230px;
+}
+
+.copyright {
+	font-size: 12px;
+	padding: 11px 0 7px;
+	background: #3e4753;
+	border-top: solid 1px #777;
+	min-width: 980px;
+}
+
+.copyright p {
+	color: #dadada;
+	margin-top: 12px;
+}
+
+.main-footer {
+	padding: 20px 0;
+	margin-top: 15px;
+	color: #969696;
+	background-color: #EAEAEA;
+	border-top: 1px solid #CACACA;
+}
+
+.footer-nav{
+	position: relative;
+	padding-left: 50px;
+	padding-top: 5px;
+	float: left;
+	margin-right: 75px;			
+}
+
+.footer-nav i{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 50px;
+}
+
+.footer-nav h3{
+	font-size: 16px;
+	color: #4A5872;			
+}
+
+.footer-nav li{
+	font-size: 12px;
+	color: #626B7D;
+	margin-top: 10px;			
+}
+
+.footer-nav li a{
+	color: #626B7D;
+}
+
+
+/***********************登录页面******************************/
+.loginBox{
+	overflow: hidden;
+	z-index: 9;
+	position: absolute;
+	width: 330px;
+	top: 10px;
+	right: 0px;
+}
+
+.loginPanel{
+	width: 330px;
+	margin: 0 auto;
+	background-color: rgba(0,0,0,0.5);
+	position: relative;
+	top: -9px;				
+}
+
+.loginPanel .input-area{
+	padding: 20px 25px 20px 25px;
+	width: 280px;
+}
+
+.loginArea .tt{
+	font-family: 'microsoft yahei',sans-serif;
+	position: relative;
+	margin: 0 0 10px 0;
+	font-size: 18px;
+	color: #fff;
+}
+
+
+
+
+.loginArea{
+	position: absolute;
+	width: 370px;
+	top: 30px;
+	right: 50px;
+	background-color: rgba(0,0,0,0.5);
+}			
+.sign-form {
+}
+.sign-inner {
+  padding: 30px;
+}
+.sign-form .popover {
+  min-width: 200px;
+}
+
+#loginDialog hr{
+	margin-top: 5px;
+	margin-bottom: 10px;
+	border-top: 1px solid #e7e7e7;
+}
+
+.loginDiv input[type="text"], .loginDiv input[type="password"]{
+	padding: 6px 12px;
+}
+
+.loginDiv input{
+	border: 0;
+	width: 80%;
+	font-size: 16px;
+}
+
+.loginDiv hr{
+	min-height: 1px;
+	max-height: 1px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.loginDiv button{
+	padding: 4px 12px;
+}
+
+.loginDiv button b{
+	font-size: 18px;
+}
+
+.inline{
+	display: inline-block!important;
+}
+
+.space-6{
+	max-height: 1px;
+	min-height: 1px;
+	margin: 6px 0 5px;
+}
+
+.space-8{
+	max-height: 1px;
+	min-height: 1px;
+	margin: 8px 0 7px;
+}
+
+
+.padding-tb-5{
+	padding: 5px 0;
+}
+
+.align-middle{
+	vertical-align: middle;
+}
+
+.loginDiv .help-block{
+	color: chartreuse;;
+}
+
+.loginDiv .remember{
+	cursor: pointer;
+}
+
+.loginDiv .remember label{
+	cursor: pointer;
+	font-weight: normal;
+	margin-left: 13px;
+}
+
+.loginDiv input{
+	background: transparent;
+}
+
+.loginDiv input:hover{
+	background: transparent;
+}
+
+.loginDiv input:focus{
+	background: transparent;
+}
+
+.loginDiv .inputGroup{
+	height: 40px;
+	line-height: 40px;
+	background: #f8f8f8;
+	padding: 0px 6px;
+}
+
+
+.au-title {
+	background: #DEE9E5 url(../../../images/index/tmc-index/aboutus.png) 50% 0 no-repeat;
+	position: relative;
+	z-index: 0;
+	height: 140px;
+	top: 0px;
+}
+
+.au-block{
+	padding: 20px 0;
+}
+
+.au-block h3{
+	font-size: 16px;
+	font-weight: bold;
+	color: #f1634c;
+	border-bottom: 1px solid #d5b6a3;
+}
+
+.au-block h3 span{
+	display: block;
+	height: 26px;
+	border-bottom: 2px solid #f1634c;
+	margin-bottom: -1px;
+}
+
+.au-block{
+	font-size: 16px;
+}
+
+.au-block i{
+	color: #f1634c;
+}
+
+			
+			
+.app-wrapper{
+	min-width: 980px;
+	height: 636px;
+	background: url(../../../images/index-app/bg.png) no-repeat center center;
+}
+
+.main{
+	position: relative;
+	max-width: 1180px;
+	height: 636px;
+	margin: 0 auto;
+	
+}
+
+.phone-area{
+	position: absolute;
+	width: 643px;
+	height: 694px;
+	background: url(../../../images/index/tmc-index/phone.png) no-repeat;
+}
+
+.title-area{
+	position: absolute;
+	top: 130px;
+	right: 2%;
+	width: 457px;
+	height: 112px;
+	background: url(../../../images/index-app/title.png) no-repeat;
+}
+
+.version-area{
+	position: absolute;
+	top: 200px;
+	right: 2%;
+}
+
+.v-iphone{
+	display: inline-block;
+	width: 167px;
+	height: 60px;
+	background: url(../../../images/index-app/iphone.png) no-repeat;
+	cursor: pointer;
+}
+
+.v-iphone.hover{
+	background: url(../../../images/index-app/iphone_h.png) no-repeat;
+}
+
+.v-android{
+	display: inline-block;
+	width: 167px;
+	height: 60px;
+	background: url(../../../images/index-app/android.png) no-repeat;
+	cursor: pointer;
+}
+
+.v-android.hover{
+	background: url(../../../images/index-app/android_h.png) no-repeat;
+}
+
+.qrcode-area{
+	position: absolute;
+	top: 300px;
+	right: 2%;
+}
+
+.qrcode-s{
+	display: inline-block;
+	width: 72px;
+	height: 160px;
+	background: url(../../../images/index-app/s.png) no-repeat;
+}
+
+.qrcode-android{
+	display: inline-block;
+	width: 160px;
+	height: 160px;
+	background: url(../../../images/index-app/qrcode-android.png) no-repeat;
+	margin-left: 13px;
+}
+
+.qrcode-ios{
+	display: inline-block;
+	width: 160px;
+	height: 160px;
+	background: url(../../../images/index-app/qrcode-ios.png) no-repeat;
+	margin-left: 18px;
+}
+
+
+.app-services{
+	display: block;
+	list-style: none;
+	min-width: 980px;
+	max-width: 1180px;
+	margin: 0 auto;
+	border-right: 1px dotted #B2B2B2;
+	padding: 0;
+}
+
+.app-services:after{
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+.app-services li{
+	position: relative;
+	display: inline;
+	float: left;
+	width: 19.95%;
+	height: 250px;
+	margin-left: -1px;
+	padding: 50px 0 0;
+	text-align: center;
+	font-size: 14px;
+	font-family: "Microsoft Yahei";
+	color: #666;
+	border-left: 1px dotted #B2B2B2;
+}
+
+
+.tp-block{
+	overflow: hidden;
+	margin-top: 36px;
+	background-color: #fff;
+}
+
+.tp-block .tp-theme{
+	font: 20px/42px 'Microsoft Yahei';
+	overflow: hidden;
+	width: 100%;
+	height: 42px;
+	color: #f60;
+	border-bottom: 2px solid #ffa63c;
+	background-color: #f5f5f5;	
+}
+
+.tp-theme .sub-theme{
+	font: 14px/42px 'Microsoft Yahei';
+	color: #999;
+}
+
+.tp-theme .pag-nav{
+	margin-right: 10px;
+}
+
+.tp-theme .pag-nav .badge{
+	margin-right: 2px;
+	cursor: pointer;
+}
+
+.tp-theme .pag-nav .badge.active{
+	background-color: #f89406!important;
+}
+
+.tp-content ul{
+	padding: 20px 2px;
+}
+
+.tp-content ul li{
+	padding: 0 8px;
+}
+
+.tp-content ul li img{
+	width: 222px;
+	height: 150px;
+}
+
+.tp-content .tp-des{
+	max-width: 222px;
+	margin: 5px 0;
+	text-align: left;
+}
+			
+.tp-content .tp-des .tp-title{
+	color: #333;
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	overflow: hidden;
+	margin: 0;
+}
+			
+.tp-des a:HOVER .tp-title{
+	color: #f60;
+}			
+			
+.tp-content .start-city{
+	color: #999;
+}			
+			
+			

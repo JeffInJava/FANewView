@@ -1,0 +1,1017 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-700, -300, 1440, 720" xml:space="preserve">
+<g transform="translate(30, 30) scale(1, 1)">
+
+<rect style="fill:null;stroke-width:0;opacity:0" width="2180" height="2111" x="-1100" y="-900"/>
+<path id="黄浦江" d="m 494.16667,-623 1,366 -189,192.000003 -109,0 -21,25 0,274.999997 -29,40 -156.000003,-2 -242.999997,262 2,402.00003" stroke="#2664B7" stroke-width="15" fill="none"/>
+<text id="黄浦江1" x="-452.8338" y="-492.36755" style="font-size:10px;fill:white" transform="matrix(0,1,-1,0,0,0)">黄    浦    江</text>
+<text id="黄浦江2" x="371.09024" y="172.81984" style="font-size:10px;fill:white" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)">黄    浦    江</text>
+<text id="黄浦江3" x="593.98438" y="254.13943" style="font-size:10px;fill:white" transform="matrix(0,1,-1,0,0,0)">黄    浦    江</text>
+<image xlink:href="style/images/1.png" x="-370.4" y="450.6"  width="72px" height="24px"/>
+<image xlink:href="style/images/1.png" x="-12.6" y="-589.4"  width="72px" height="24px"/>
+<image xlink:href="style/images/2.png" x="-770" y="-35"  width="72px" height="24px"/>
+<image xlink:href="style/images/2.png" x="680" y="450"  width="72px" height="24px"/>
+<image xlink:href="style/images/3.png" x="185.3" y="-673.4"  width="72px" height="24px"/>
+<image xlink:href="style/images/4.png" x="70" y="-140.6"  width="72px" height="24px"/>
+<image xlink:href="style/images/5.png" x="-677.2" y="805"  width="72px" height="24px"/>
+<image xlink:href="style/images/6.png" x="580.2" y="-610.1"  width="72px" height="24px"/>
+<image xlink:href="style/images/7.png" x="-226.7" y="-607"  width="72px" height="24px"/>
+<image xlink:href="style/images/8.png" x="377.6" y="-634.7"  width="72px" height="24px"/>
+<image xlink:href="style/images/8.png" x="-92.9" y="760"  width="72px" height="24px"/>
+<image xlink:href="style/images/9.png" x="-838.9" y="448.1"  width="72px" height="24px"/>
+<image xlink:href="style/images/10.png" x="263.9" y="-554"  width="72px" height="24px"/>
+<image xlink:href="style/images/10.png" x="-621.1" y="0"  width="72px" height="24px"/>
+<image xlink:href="style/images/11.png" x="-680" y="-526"  width="72px" height="24px"/>
+<image xlink:href="style/images/11.png" x="-373.1" y="-575.5"  width="72px" height="24px"/>
+<image xlink:href="style/images/11.png" x="605" y="585.2"  width="72px" height="24px"/>
+<image xlink:href="style/images/12.png" x="-624" y="236.3"  width="72px" height="24px"/>
+<image xlink:href="style/images/12.png" x="769.2" y="-170.2"  width="72px" height="24px"/>
+<image xlink:href="style/images/13.png" x="-550.3" y="-160"  width="72px" height="24px"/>
+<image xlink:href="style/images/16.png" x="766.6" y="840.8"  width="72px" height="24px"/>
+
+<path id="富锦路-友谊西路" d="M -16.6,-589.4 -16.6,-554" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="友谊西路-宝安公路" d="M -16.6,-554 -16.6,-518.8" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="宝安公路-共富新村" d="M -16.6,-518.8 -16.6,-483.4" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="共富新村-呼兰路" d="M -16.6,-483.4 -16.6,-448.1" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="呼兰路-通河新村" d="M -16.6,-448.1 -16.6,-412.9" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="通河新村-共康路" d="M -16.6,-412.9 -16.6,-377.6" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="共康路-彭浦新村" d="M -16.6,-377.6 -16.6,-342.3" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="彭浦新村-汶水路" d="M -16.6,-342.3 -16.6,-306.9" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="汶水路-上海马戏城" d="M -16.6,-306.9 -16.6,-271.6" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="上海马戏城-延长路" d="M -16.6,-271.6 -16.6,-236.3" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="延长路-中山北路" d="M -16.6,-236.3 -16.6,-201.1" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="中山北路-上海火车站" d="M -16.6,-201.1 -16.6,-151.6" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="上海火车站-汉中路" d="M -16.6,-151.6 -16.6,-110.5" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="汉中路-新闸路" d="M -16.6,-110.5 28.8,-63.4" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="新闸路-人民广场" d="M 28.8,-63.4 65.2,-27.1" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="人民广场-黄陂南路" d="M 65.2,-27.1 L 65.2,15.4 Q 54,40.6 24.1,45.5" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="黄陂南路-陕西南路" d="M 24.1,45.5 -37.1,45.5" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="陕西南路-常熟路" d="M -37.1,45.5 -73.3,45.5" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="常熟路-衡山路" d="M -73.3,45.5 -83.9,45.5 -114,75" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="衡山路-徐家汇" d="M -114,75 -148,110" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="徐家汇-上海体育馆" d="M -148,110 -192.8,153.7" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="上海体育馆-漕宝路" d="M -192.8,153.7 -268.7,228.3" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="漕宝路-上海南站" d="M -268.7,228.3 -268.7,338.6" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="上海南站-锦江乐园" d="M -268.7,338.6 -299.7,370.4" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="锦江乐园-莲花路" d="M -299.7,370.4 -331.8,402.9" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="莲花路-外环路" d="M -331.8,402.9 -364.1,434.9" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="外环路-莘庄" d="M -364.1,434.9 -397.4,469.6" fill="none" stroke="#ED3229" stroke-width="2" lineid="1"/>
+<path id="徐泾东-虹桥火车站" d="M -680,-27.1 -620,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="虹桥火车站-虹桥2号航站楼" d="M -620,-27.1 -540,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="虹桥2号航站楼-淞虹路" d="M -540,-27.1 -471,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="淞虹路-北新泾" d="M -471,-27.1 -412.5,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="北新泾-威宁路" d="M -412.5,-27.1 -354.4,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="威宁路-娄山关路" d="M -354.4,-27.1 -295.2,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="娄山关路-中山公园" d="M -295.2,-27.1 -240.3,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="中山公园-江苏路" d="M -240.3,-27.1 -146.8,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="江苏路-静安寺" d="M -146.8,-27.1 -75.5,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="静安寺-南京西路" d="M -75.5,-27.1 -31.1,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="南京西路-人民广场" d="M -31.1,-27.1 65.2,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="人民广场-南京东路" d="M 65.2,-27.1 148.3,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="南京东路-陆家嘴" d="M 148.3,-27.1 203.2,-27.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="陆家嘴-东昌路" d="M 203.2,-27.1 240.9,10.8" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="东昌路-世纪大道" d="M 240.9,10.8 279.7,46.5" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="世纪大道-上海科技馆" d="M 279.7,46.5 333.8,104.1" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="上海科技馆-世纪公园" d="M 333.8,104.1 333.8,162.9" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="世纪公园-龙阳路" d="M 333.8,162.9 333.8,205.8 L 454,205.8" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="龙阳路-张江高科" d="M 454,205.8 503.6,205.8" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="张江高科-金科路" d="M 503.6,205.8 553.6,205.8" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="金科路-广兰路" d="M 553.6,205.8 603.6,205.8" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="广兰路-唐镇" d="M 603.6,205.8 653.6,205.8" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="唐镇-创新中路" d="M 653.6,205.8 Q 675,210 680,230" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="创新中路-华夏东路" d="M 680,230 680,265" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="华夏东路-川沙" d="M 680,265 680,300" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="川沙-凌空路" d="M 680,300 680,335" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="凌空路-远东大道" d="M 680,335 680,370" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="远东大道-海天三路" d="M 680,370 680,405" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="海天三路-浦东国际机场" d="M 680,405 680,440" fill="none" stroke="#36B854" stroke-width="2" lineid="2"/>
+<path id="江杨北路-铁力路" d="M 175.3,-673.4 175.3,-641" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="铁力路-友谊路" d="M 175.3,-641 175.3,-609.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="友谊路-宝杨路" d="M 175.3,-609.6 175.3,-578.3" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="宝杨路-水产路" d="M 175.3,-578.3 175.3,-546.9" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="水产路-淞滨路" d="M 175.3,-546.9 175.3,-515.5" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="淞滨路-张华浜" d="M 175.3,-515.5 175.3,-483.9" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="张华浜-淞发路" d="M 175.3,-483.9 175.3,-452.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="淞发路-长江南路" d="M 175.3,-452.6 175.3,-421.3" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="长江南路-殷高西路" d="M 175.3,-421.3 175.3,-389.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="殷高西路-江湾镇" d="M 175.3,-389.6 175.3,-358.5" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="江湾镇-大柏树" d="M 175.3,-358.5 175.3,-327.1" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="大柏树-赤峰路" d="M 175.3,-327.1 175.3,-295.1" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="赤峰路-虹口足球场" d="M 175.3,-295.1 175.3,-260.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="虹口足球场-东宝兴路" d="M 175.3,-260.6 121.8,-208.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="东宝兴路-宝山路" d="M 121.8,-208.6 65.2,-151.6 25.9,-151.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="宝山路-上海火车站" d="M 25.9,-151.6 -16.6,-151.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="上海火车站-中潭路" d="M -16.6,-151.6 -104.3,-151.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="中潭路-镇坪路" d="M -104.3,-151.6 -196.7,-151.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="镇坪路-曹杨路" d="M -196.7,-151.6 Q -226.4,-144.36 -240.3,-122.4" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="曹杨路-金沙江路" d="M -240.3,-122.4 -240.3,-86" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="金沙江路-中山公园" d="M -240.3,-86 -240.3,-27.1" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="中山公园-延安西路" d="M -240.3,-27.1 -240.3,15.4" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="延安西路-虹桥路" d="M -240.3,15.4 -240.3,53" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="虹桥路-宜山路" d="M -240.3,53 -240.3,110" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="宜山路-漕溪路" d="M -240.3,110 -240.3,157.3 -187.6,213.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="漕溪路-龙漕路" d="M -187.6,213.6 -187.6,256.9" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="龙漕路-石龙路" d="M -187.6,256.9 -223.5,294.3" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="石龙路-上海南站" d="M -223.5,294.3 -268.7,338.6" fill="none" stroke="#FFD823" stroke-width="2" lineid="3"/>
+<path id="宝山路-上海火车站" d="M 25.9,-145.6 -16.6,-145.6" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="上海火车站-中潭路" d="M -16.6,-145.6 -104.3,-145.6" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="中潭路-镇坪路" d="M -104.3,-145.6 -196.7,-145.6" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="镇坪路-曹杨路" d="M -196.7,-145.6 Q -222.4,-140.3 -234.3,-122.4" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="曹杨路-金沙江路" d="M -234.3,-122.4 -234.3,-86" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="金沙江路-中山公园" d="M -234.3,-86 -234.3,-27.1" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="中山公园-延安西路" d="M -234.3,-27.1 -234.3,15.4" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="延安西路-虹桥路" d="M -234.3,15.4 -234.3,53" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="虹桥路-宜山路" d="M -234.3,53 -234.3,110" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="宜山路-上海体育馆" d="M -234.3,110 -192.8,153.7" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="上海体育馆-上海体育场" d="M -192.8,153.7 -153.3,194.3" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="上海体育场-东安路" d="M -153.3,194.3 Q -130.2,209.1 -104.9,214.1 L -73.3,214.5" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="东安路-大木桥路" d="M -73.3,214.5 6.5,214.5" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="大木桥路-鲁班路" d="M 6.5,214.5 52.6,214.5" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="鲁班路-西藏南路" d="M 52.6,214.5 100.7,214.5" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="西藏南路-南浦大桥" d="M 100.7,214.5 148.1,214.5" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="南浦大桥-塘桥" d="M 148.1,214.5 200.9,214.5" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="塘桥-蓝村路" d="M 200.9,214.5 237,178.4" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="蓝村路-浦电路4" d="M 237,178.4 L 267.1,150.8 Q 277.1,138.4 279.6,121.5 L 279.6,102.2" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="浦电路4-世纪大道" d="M 279.6,102.2 279.7,46.5" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="世纪大道-浦东大道" d="M 279.7,46.5 279.6,-42.3" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="浦东大道-杨树浦路" d="M 279.6,-42.3 279.6,-89" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="杨树浦路-大连路" d="M 279.6,-89 279.6,-118.1" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="大连路-临平路" d="M 279.6,-118.1 L 279.6,-143.3 Q 268.7,-167.7 234.7,-173.1" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="临平路-海伦路" d="M 234.7,-173.1 200.9,-171.6" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="海伦路-宝山路" d="M 200.9,-171.6 152.8,-173.1 126.3,-146.6 25.9,-145.6" fill="none" stroke="#320176" stroke-width="2" lineid="4"/>
+<path id="莘庄-春申路" d="M -397.4,469.6 -397.4,509.9" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="春申路-银都路" d="M -397.4,509.9 -397.4,546.2" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="银都路-颛桥" d="M -397.4,546.2 -397.4,587.9" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="颛桥-北桥" d="M -397.4,587.9 -397.4,628.9" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="北桥-剑川路" d="M -397.4,628.9 -397.4,669.7" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="剑川路-东川路" d="M -397.4,669.7 -397.4,712.5" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="东川路-金平路" d="M -397.4,712.5 Q -398.4,729.8 -410.3,745.1 L -434.9,766.8" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="金平路-华宁路" d="M -434.9,766.8 -480.8,811.6" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="华宁路-文井路" d="M -480.8,811.6 L -496.2,825.8 Q -513.5,836.8 -537.2,841.1 L -572.8,841.6" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="文井路-闵行开发区" d="M -572.8,841.6 -647.2,841.6" fill="none" stroke="#823094" stroke-width="2" lineid="5"/>
+<path id="港城路-外高桥保税区北" d="M 586.2,-571.1 586.2,-530.1" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="外高桥保税区北-航津路" d="M 586.2,-530.1 586.2,-484.6" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="航津路-外高桥保税区南" d="M 586.2,-484.6 586.2,-439.6" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="外高桥保税区南-洲海路" d="M 586.2,-439.6 586.2,-393.7" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="洲海路-五洲大道" d="M 586.2,-393.7 586.2,-348.3" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="五洲大道-东靖路" d="M 586.2,-348.3 586.2,-295.6" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="东靖路-巨峰路" d="M 586.2,-295.6 Q 586.2,-266.1 576.3,-249.4" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="巨峰路-五莲路" d="M 576.3,-249.4 543.3,-216.4" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="五莲路-博兴路" d="M 543.3,-216.4 511.6,-184.8" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="博兴路-金桥路" d="M 511.6,-184.8 479.8,-152.9" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="金桥路-云山路" d="M 479.8,-152.9 448.2,-121.4" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="云山路-德平路" d="M 448.2,-121.4 415.9,-89" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="德平路-北洋泾路" d="M 415.9,-89 384.4,-57.6" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="北洋泾路-民生路" d="M 384.4,-57.6 352,-25.2" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="民生路-源深体育中心" d="M 352,-25.2 322.2,4.6" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="源深体育中心-世纪大道" d="M 322.2,4.6 279.7,46.5" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="世纪大道-浦电路6" d="M 279.7,46.5 L 242.1,83.1 Q 238.5,89.8 237,102.2" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="浦电路6-蓝村路" d="M 237,102.2 237,178.4" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="蓝村路-上海儿童医学中心" d="M 237,178.4 237,228.1" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="上海儿童医学中心-临沂新村" d="M 237,228.1 237,290.1" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="临沂新村-高科西路" d="M 237,290.1 237,309.6 210.6,335.8" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="高科西路-东明路" d="M 210.6,335.8 166.2,380.2" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="东明路-高青路" d="M 166.2,380.2 134.4,411.4 134.4,433.8" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="高青路-华夏西路" d="M 134.4,433.8 134.4,494.1" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="华夏西路-上南路" d="M 134.4,494.1 Q 128.7,516.9 106.2,528" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="上南路-灵岩南路" d="M 106.2,528 24.9,528" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="灵岩南路-东方体育中心" d="M 24.9,528 -72.9,528" fill="none" stroke="#CF047A" stroke-width="2" lineid="6"/>
+<path id="美兰湖-罗南新村" d="M -196.7,-567 -196.7,-540.4" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="罗南新村-潘广路" d="M -196.7,-540.4 -196.7,-513.4" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="潘广路-刘行" d="M -196.7,-513.4 -196.7,-486.4" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="刘行-顾村公园" d="M -196.7,-486.4 -196.7,-460.9" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="顾村公园-祁华路" d="M -196.7,-460.9 -196.7,-434.3" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="祁华路-上海大学" d="M -196.7,-434.3 -196.7,-407.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="上海大学-南陈路" d="M -196.7,-407.8 -196.7,-381.3" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="南陈路-上大路" d="M -196.7,-381.3 -196.7,-354.7" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="上大路-场中路" d="M -196.7,-354.7 -196.7,-328.2" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="场中路-大场镇" d="M -196.7,-328.2 -196.7,-301.6" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="大场镇-行知路" d="M -196.7,-301.6 -196.7,-275.1" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="行知路-大华三路" d="M -196.7,-275.1 -196.7,-248.6" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="大华三路-新村路" d="M -196.7,-248.6 -196.7,-222.1" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="新村路-岚皋路" d="M -196.7,-222.1 -196.7,-195.6" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="岚皋路-镇坪路" d="M -196.7,-195.6 -196.7,-151.6" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="镇坪路-长寿路" d="M -196.7,-151.6 -159.8,-113" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="长寿路-昌平路" d="M -159.8,-113 -117.4,-70.5" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="昌平路-静安寺" d="M -117.4,-70.5 -75.5,-27.1" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="静安寺-常熟路" d="M -75.5,-27.1 -73.3,45.5" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="常熟路-肇嘉浜路" d="M -73.3,45.5 -74.2,110" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="肇嘉浜路-东安路" d="M -74.2,110 -73.3,214.5" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="东安路-龙华中路" d="M -73.3,214.5 -73.3,290" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="龙华中路-后滩" d="M -73.3,290 Q -65,321 -37.3,333 L -20,334.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="后滩-长清路" d="M -20,334.8 40,334.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="长清路-耀华路" d="M 40,334.8 100.7,333.9" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="耀华路-云台路" d="M 100.7,333.9 152.3,335.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="云台路-高科西路" d="M 152.3,335.8 210.6,335.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="高科西路-杨高南路" d="M 210.6,335.8 288.8,335.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="杨高南路-锦绣路" d="M 288.8,335.8 324.1,335.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="锦绣路-芳华路" d="M 324.1,335.8 393.7,267.1" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="芳华路-龙阳路" d="M 393.7,267.1 454,205.8" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="龙阳路-花木路" d="M 454,205.8 498.4,162.3" fill="none" stroke="#F3560F" stroke-width="2" lineid="7"/>
+<path id="市光路-嫩江路" d="M 397.6,-594.7 397.6,-550.4" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="嫩江路-翔殷路" d="M 397.6,-550.4 397.6,-508.1" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="翔殷路-黄兴公园" d="M 397.6,-508.1 397.6,-465.6" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="黄兴公园-延吉中路" d="M 397.6,-465.6 397.6,-420.9" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="延吉中路-黄兴路" d="M 397.6,-420.9 371.3,-394.6" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="黄兴路-江浦路" d="M 371.3,-394.6 345.8,-369" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="江浦路-鞍山新村" d="M 345.8,-369 319.7,-342.9" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="鞍山新村-四平路" d="M 319.7,-342.9 293.9,-317.1" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="四平路-曲阳路" d="M 293.9,-317.1 268.1,-291.4" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="曲阳路-虹口足球场" d="M 268.1,-291.4 L 251.3,-275.3 Q 234.1,-264.1 211.1,-260.6 L 175.3,-260.6" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="虹口足球场-西藏北路" d="M 175.3,-260.6 108,-260.8" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="西藏北路-中兴路" d="M 108,-260.8 Q 73.6,-255 65.2,-223.2" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="中兴路-曲阜路" d="M 65.2,-223.2 65.2,-90.8" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="曲阜路-人民广场" d="M 65.2,-90.8 65.2,-27.1" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="人民广场-大世界" d="M 65.2,-27.1 L 92.2,1 Q 98.2,10.2 101,20 L 100.7,25" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="大世界-老西门" d="M 100.7,25 100.7,67.9" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="老西门-陆家浜路" d="M 100.7,67.9 100.7,110" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="陆家浜路-西藏南路" d="M 100.7,110 100.7,214.5" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="西藏南路-中华艺术宫" d="M 100.7,214.5 100.7,301" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="中华艺术宫-耀华路" d="M 100.7,301 100.7,333.9" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="耀华路-成山路" d="M 100.7,333.9 100.7,367.9" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="成山路-杨思" d="M 100.7,367.9 L 100.7,396.9 58.6,396.9 L 41.1,414.9" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="杨思-东方体育中心" d="M 41.1,414.9 -72.9,528" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="东方体育中心-凌兆新村" d="M -72.9,528 -72.9,559.5" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="凌兆新村-芦恒路" d="M -72.9,559.5 -72.9,597" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="芦恒路-浦江镇" d="M -72.9,597 -72.9,635" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="浦江镇-江月路" d="M -72.9,635 -72.9,673.5" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="江月路-联航路" d="M -72.9,673.5 -72.9,710.5" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="联航路-沈杜公路" d="M -72.9,710.5 -72.9,748" fill="none" stroke="#008CC1" stroke-width="2" lineid="8"/>
+<path id="杨高中路-世纪大道" d="M 340,70 302,70 279.7,46.5" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="世纪大道-商城路" d="M 279.7,46.5 220,46.5" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="商城路-小南门" d="M 220,46.5 150,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="小南门-陆家浜路" d="M 150,110 100.7,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="陆家浜路-马当路" d="M 100.7,110 75,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="马当路-打浦桥" d="M 75,110 15,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="打浦桥-嘉善路" d="M 15,110 -30,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="嘉善路-肇嘉浜路" d="M -30,110 -74.2,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="肇嘉浜路-徐家汇" d="M -74.2,110 -148,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="徐家汇-宜山路" d="M -148,110 -237.3,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="宜山路-桂林路" d="M -237.3,110 -297.5,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="桂林路-漕河泾开发区" d="M -297.5,110 -360.9,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="漕河泾开发区-合川路" d="M -360.9,110 -427,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="合川路-星中路" d="M -427,110 -478.6,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="星中路-七宝" d="M -478.6,110 -530.5,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="七宝-中春路" d="M -530.5,110 -577.8,110" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="中春路-九亭" d="M -577.8,110 -607.8,110 -641.9,141.1" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="九亭-泗泾" d="M -641.9,141.1 -667.7,167" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="泗泾-佘山" d="M -667.7,167 -705.3,204.6" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="佘山-洞泾" d="M -705.3,204.6 -743.5,242.8" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="洞泾-松江大学城" d="M -743.5,242.8 -781.5,280.8" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="松江大学城-松江新城" d="M -781.5,280.8 -818.9,318.1" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="松江新城-松江体育中心" d="M -818.9,318.1 -818.9,358.1" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="松江体育中心-醉白池" d="M -818.9,358.1 -818.9,398.1" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="醉白池-松江南站" d="M -818.9,398.1 -818.9,438.1" fill="none" stroke="#91C5DB" stroke-width="2" lineid="9"/>
+<path id="新江湾城-殷高东路" d="M 293.9,-514 293.9,-486.9" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="殷高东路-三门路" d="M 293.9,-486.9 293.9,-459.9" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="三门路-江湾体育场" d="M 293.9,-459.9 293.9,-432.9" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="江湾体育场-五角场" d="M 293.9,-432.9 293.9,-405.8" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="五角场-国权路" d="M 293.9,-405.8 293.9,-378.8" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="国权路-同济大学" d="M 293.9,-378.8 293.9,-351.6" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="同济大学-四平路" d="M 293.9,-351.6 293.9,-317.1" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="四平路-邮电新村" d="M 293.9,-317.1 293.9,-264.6 261.9,-231.8" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="邮电新村-海伦路" d="M 261.9,-231.8 200.9,-171.6" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="海伦路-四川北路" d="M 200.9,-171.6 164.6,-134.8" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="四川北路-天潼路" d="M 164.6,-134.8 148.3,-118.3 148.3,-90.8" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="天潼路-南京东路" d="M 148.3,-90.8 148.3,-27.1" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="南京东路-豫园" d="M 148.3,-27.1 148.3,12.9" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="豫园-老西门" d="M 148.3,12.9 L 148.3,54.4 Q 143,63.2 134.2,67.9 L 100.7,67.9" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="老西门-新天地" d="M 100.7,67.9 26.9,67.9" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="新天地-陕西南路" d="M 26.9,67.9 -23.6,67.9 -37.1,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="陕西南路-上海图书馆" d="M -37.1,53 -147.7,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="上海图书馆-交通大学" d="M -147.7,53 -201.6,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="交通大学-虹桥路" d="M -201.6,53 -237.3,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="虹桥路-宋园路" d="M -237.3,53 -320.3,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="宋园路-伊犁路" d="M -320.3,53 -372.4,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="伊犁路-水城路" d="M -372.4,53 -424.6,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="水城路-龙溪路" d="M -424.6,53 -476.8,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="龙溪路-龙柏新村" d="M -476.8,53 -529,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="龙柏新村-紫藤路" d="M -529,53 -581.1,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="紫藤路-航中路" d="M -581.1,53 -633.3,53" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="龙溪路-上海动物园" d="M -476.8,53 -502.3,23.6" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="上海动物园-虹桥1号航站楼" d="M -502.3,23.6 -514.6,7.6" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="虹桥1号航站楼-虹桥2号航站楼" d="M -514.6,7.6 -540,-21.1" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="虹桥2号航站楼-虹桥火车站" d="M -540,-21.1 -620,-21.1" fill="none" stroke="#C7AFD3" stroke-width="2" lineid="10"/>
+<path id="世博大道-世博会博物馆" d="M 75,310 75,250" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="世博会博物馆-马当路" d="M 75,250 75,110" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="马当路-新天地" d="M 75,110 26.9,67.9" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="新天地-淮海中路" d="M 26.9,67.9 -16.1,27" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="淮海中路-南京西路" d="M -16.1,27 -16.1,-20.1" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="南京西路-自然博物馆" d="M -16.1,-20.1 -16.1,-53.5" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="自然博物馆-汉中路" d="M -16.1,-53.5 -16.6,-110.5" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="汉中路-江宁路" d="M -16.6,-110.5 -89,-110.5" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="江宁路-长寿路" d="M -89,-110.5 -159.8,-113" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="长寿路-武宁路" d="M -159.8,-113 -189,-95.9" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="武宁路-隆德路" d="M -189,-95.9 -194,-76.9" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="隆德路-金沙江路" d="M -194,-76.9 -240.3,-86" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="金沙江路-大渡河路" d="M -240.3,-86 -290.3,-86" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="大渡河路-真北路" d="M -290.3,-86 -330.3,-86" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="真北路-祁连山南路" d="M -330.3,-86 -350.3,-106" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="祁连山南路-丰庄" d="M -350.3,-106 -380.3,-126" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="丰庄-金沙江西路" d="M -380.3,-126 -430.3,-126" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="金沙江西路-金运路" d="M -430.3,-126 -490.3,-126" fill="none" stroke="#f292d1" stroke-width="2" lineid="13"/>
+<path id="迪士尼-康新公路" d="M 590,605.2 525,605.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="康新公路-秀沿路" d="M 525,605.2 475,605.2 475,585.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="秀沿路-罗山路" d="M 475,585.2 475,565.2 445,565.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="罗山路-御桥" d="M 445,565.2 363,565.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="御桥-严御路" d="M 363,565.2 290.0,565.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="严御路-浦三路" d="M 290.0,565.2 220,565.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="浦三路-三林东" d="M 220,565.2 148,565.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="三林东-三林" d="M 148,565.2 71.2,565.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="三林-东方体育中心" d="M 71.2,565.2 12.5,565.2 -72.9,528" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="东方体育中心-龙耀路" d="M -72.9,528 -148.4,528 -148,392.7" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="龙耀路-云锦路" d="M -148,392.7 -148,336.7" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="云锦路-龙华" d="M -148,336.7 -148,279.7" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="龙华-上海游泳馆" d="M -148,279.7 -148,177.7" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="上海游泳馆-徐家汇" d="M -148,177.7 -148,110" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="徐家汇-交通大学" d="M -148,110 -201.6,53" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="交通大学-江苏路" d="M -201.6,53 -146.8,-27.1" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="江苏路-隆德路" d="M -146.8,-27.1 -194,-76.9" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="隆德路-曹杨路" d="M -194,-76.9 -240.3,-122.4" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="曹杨路-枫桥路" d="M -240.3,-122.4 -278.6,-161.6" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="枫桥路-真如" d="M -278.6,-161.6 -303.4,-186.3" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="真如-上海西站" d="M -303.4,-186.3 -330.2,-212.1" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="上海西站-李子园" d="M -330.2,-212.1 -353.1,-237.9" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="李子园-祁连山路" d="M -353.1,-237.9 -353.1,-269.1" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="祁连山路-武威路" d="M -353.1,-269.1 -353.1,-300.4" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="武威路-桃浦新村" d="M -353.1,-300.4 -353.1,-331.7" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="桃浦新村-南翔" d="M -353.1,-331.7 -353.1,-363" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="南翔-马陆" d="M -353.1,-363 -353.1,-394.3" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="马陆-嘉定新城" d="M -353.1,-394.3 -353.1,-425.6" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="嘉定新城-白银路" d="M -353.1,-425.6 -353.1,-475.6" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="白银路-嘉定西" d="M -353.1,-475.6 -353.1,-506.4" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="嘉定西-嘉定北" d="M -353.1,-506.4 -353.1,-540.5" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="嘉定新城-上海赛车场" d="M -353.1,-425.6 -371.3,-441.9" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="上海赛车场-昌吉东路" d="M -371.3,-441.9 -389.5,-458.2" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="昌吉东路-上海汽车城" d="M -389.5,-458.2 -407.7,-474.5" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="上海汽车城-安亭" d="M -407.7,-474.5 -425.9,-491" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="安亭-兆丰路" d="M -425.9,-491 -508,-491" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="兆丰路-光明路" d="M -508,-491 -588,-491" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="光明路-花桥" d="M -588,-491 -670,-491" fill="none" stroke="#8C2222" stroke-width="2" lineid="11"/>
+<path id="金海路-申江路" d="M 789.2,-179.2 787.8,-249.4" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="申江路-金京路" d="M 787.8,-249.4 725.3,-249.4" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="金京路-杨高北路" d="M 725.3,-249.4 666.3,-249.4" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="杨高北路-巨峰路" d="M 666.3,-249.4 576.3,-249.4" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="巨峰路-东陆路" d="M 576.3,-249.4 532.2,-249.4" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="东陆路-复兴岛" d="M 532.2,-249.4 448.1,-249.4" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="复兴岛-爱国路" d="M 448.1,-249.4 390.3,-249.4" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="爱国路-隆昌路" d="M 390.3,-249.4 358.3,-213.5" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="隆昌路-宁国路" d="M 358.3,-213.5 330.3,-183.6" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="宁国路-江浦公园" d="M 330.3,-183.6 304.7,-153.6" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="江浦公园-大连路" d="M 304.7,-153.6 279.6,-118.1" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="大连路-提篮桥" d="M 279.6,-118.1 247.5,-95.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="提篮桥-国际客运中心" d="M 247.5,-95.3 205.3,-92.5" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="国际客运中心-天潼路" d="M 205.3,-92.5 148.3,-90.8" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="天潼路-曲阜路" d="M 148.3,-90.8 65.2,-90.8" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="曲阜路-汉中路" d="M 65.2,-90.8 -16.6,-110.5" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="汉中路-南京西路" d="M -16.6,-110.5 -37.1,-90 -37.1,-20.1" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="南京西路-陕西南路" d="M -37.1,-20.1 -37.1,45.5" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="陕西南路-嘉善路" d="M -37.1,45.5 -30,110" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="嘉善路-大木桥路" d="M -30,110 6.5,214.5" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="大木桥路-龙华中路" d="M 6.5,214.5 6.5,290 -73.3,290" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="龙华中路-龙华" d="M -73.3,290 -158,270.7" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="龙华-龙漕路" d="M -158,270.7 -187.6,256.9" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="龙漕路-漕宝路" d="M -187.6,256.9 -268.7,228.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="漕宝路-桂林公园" d="M -268.7,228.3 -340,226.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="桂林公园-虹漕路" d="M -340,226.3 -390,226.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="虹漕路-虹梅路" d="M -390,226.3 -436,226.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="虹梅路-东兰路" d="M -436,226.3 -482,226.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="东兰路-顾戴路" d="M -482,226.3 -526,226.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="顾戴路-虹莘路" d="M -526,226.3 -576,226.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="虹莘路-七莘路" d="M -576,226.3 -624,226.3" fill="none" stroke="#007c64" stroke-width="2" lineid="12"/>
+<path id="龙阳路-华夏中路" d="M 454,205.8 452,369.2" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="华夏中路-罗山路" d="M 452,369.2 445,565.2" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="罗山路-周浦东" d="M 445,565.2 441.8,632.5" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="周浦东-鹤沙航城" d="M 441.8,632.5 441.8,704" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="鹤沙航城-航头东" d="M 441.8,704 441.8,775.5" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="航头东-新场" d="M 441.8,775.5 442.2,821.9 472.8,821.9" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="新场-野生动物园" d="M 472.8,821.9 533.5,821.1" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="野生动物园-惠南" d="M 533.5,821.1 600.2,820.3" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="惠南-惠南东" d="M 600.2,820.3 600.2,885.4" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="惠南东-书院" d="M 600.2,885.4 599.6,907 686.8,905.8" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="书院-临港大道" d="M 686.8,905.8 766.6,905.8" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+<path id="临港大道-滴水湖" d="M 766.6,905.8 846.3,905.8" fill="none" stroke="#33d4cc" stroke-width="2" lineid="16"/>
+
+
+
+<circle id="富锦路" cx="-16.6" cy="-589.4" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="富锦路t" x="-65.4" y="-586.8" style="fill:white;font-size:10px;">富锦路</text>
+<circle id="友谊西路" cx="-16.6" cy="-554.0" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="友谊西路t" x="-76.1" y="-551.5" style="fill:white;font-size:10px;">友谊西路</text>
+<circle id="宝安公路" cx="-16.6" cy="-518.8" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="宝安公路t" x="-76.1" y="-516.3" style="fill:white;font-size:10px;">宝安公路</text>
+<circle id="共富新村" cx="-16.6" cy="-483.4" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="共富新村t" x="-76.1" y="-481.0" style="fill:white;font-size:10px;">共富新村</text>
+<circle id="呼兰路" cx="-16.6" cy="-448.1" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="呼兰路t" x="-65.4" y="-445.8" style="fill:white;font-size:10px;">呼兰路</text>
+<circle id="通河新村" cx="-16.6" cy="-412.9" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="通河新村t" x="-76.1" y="-410.4" style="fill:white;font-size:10px;">通河新村</text>
+<circle id="共康路" cx="-16.6" cy="-377.6" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="共康路t" x="-65.4" y="-375.2" style="fill:white;font-size:10px;">共康路</text>
+<circle id="彭浦新村" cx="-16.6" cy="-342.3" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="彭浦新村t" x="-76.1" y="-339.9" style="fill:white;font-size:10px;">彭浦新村</text>
+<circle id="汶水路" cx="-16.6" cy="-306.9" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="汶水路t" x="-65.4" y="-304.7" style="fill:white;font-size:10px;">汶水路</text>
+<circle id="上海马戏城" cx="-16.6" cy="-271.6" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="上海马戏城t" x="-86.8" y="-269.4" style="fill:white;font-size:10px;">上海马戏城</text>
+<circle id="延长路" cx="-16.6" cy="-236.3" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="延长路t" x="-65.4" y="-234.2" style="fill:white;font-size:10px;">延长路</text>
+<circle id="中山北路" cx="-16.6" cy="-201.1" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="中山北路t" x="-76.1" y="-198.9" style="fill:white;font-size:10px;">中山北路</text>
+<circle id="新闸路" cx="28.8" cy="-63.4" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="新闸路t" x="-17.9" y="-60.7" style="fill:white;font-size:10px;">新闸路</text>
+<circle id="黄陂南路" cx="24.1" cy="45.5" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="黄陂南路t" x="0.6" y="32.1" style="fill:white;font-size:10px;">黄陂南路</text>
+<circle id="常熟路" cx="-73.3" cy="42.5" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="常熟路t" x="-115.2" y="36.0" style="fill:white;font-size:10px;">常熟路</text>
+<circle id="衡山路" cx="-114.0" cy="75.0" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="衡山路t" x="-162.1" y="77.0" style="fill:white;font-size:10px;">衡山路</text>
+<circle id="漕宝路" cx="-268.7" cy="228.3" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="漕宝路t" x="-318.7" y="248.3" style="fill:white;font-size:10px;">漕宝路</text>
+<circle id="锦江乐园" cx="-299.7" cy="370.4" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="锦江乐园t" x="-358.9" y="372.1" style="fill:white;font-size:10px;">锦江乐园</text>
+<circle id="莲花路" cx="-331.8" cy="402.9" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="莲花路t" x="-380.9" y="404.5" style="fill:white;font-size:10px;">莲花路</text>
+<circle id="外环路" cx="-364.1" cy="434.9" r="5" stroke="#ED3229" stroke-width="1" fill="white"/>
+<text id="外环路t" x="-411.6" y="436.8" style="fill:white;font-size:10px;">外环路</text>
+<circle id="徐泾东" cx="-680.0" cy="-27.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="徐泾东t" x="-699.9" y="-40.0" style="fill:white;font-size:10px;">徐泾东</text>
+<circle id="虹桥火车站" cx="-620.0" cy="-27.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="虹桥火车站t" x="-655.0" y="-40.0" style="fill:white;font-size:10px;">虹桥火车站</text>
+<circle id="虹桥2号航站楼" cx="-540.0" cy="-27.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="虹桥2号航站楼t" x="-585.0" y="-40.0" style="fill:white;font-size:10px;">虹桥2号航站楼</text>
+<circle id="淞虹路" cx="-471.0" cy="-27.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="淞虹路t" x="-490.9" y="-9.2" style="fill:white;font-size:10px;">淞虹路</text>
+<circle id="北新泾" cx="-412.5" cy="-27.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="北新泾t" x="-430.6" y="-9.2" style="fill:white;font-size:10px;">北新泾</text>
+<circle id="威宁路" cx="-354.4" cy="-27.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="威宁路t" x="-374.3" y="-9.2" style="fill:white;font-size:10px;">威宁路</text>
+<circle id="娄山关路" cx="-295.2" cy="-27.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="娄山关路t" x="-319.8" y="-9.2" style="fill:white;font-size:10px;">娄山关路</text>
+<circle id="静安寺" cx="-75.5" cy="-27.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="静安寺t" x="-113.0" y="-9.2" style="fill:white;font-size:10px;">静安寺</text>
+<circle id="南京西路" cx="-31.1" cy="-27.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="南京西路t" x="-89.6" y="-47.1" style="fill:white;font-size:10px;">南京西路</text>
+<circle id="陆家嘴" cx="203.2" cy="-27.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="陆家嘴t" x="167.2" y="-9.2" style="fill:white;font-size:10px;">陆家嘴</text>
+<circle id="东昌路" cx="240.9" cy="10.8" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="东昌路t" x="193.9" y="13.5" style="fill:white;font-size:10px;">东昌路</text>
+<circle id="上海科技馆" cx="333.8" cy="104.1" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="上海科技馆t" x="340.6" y="106.2" style="fill:white;font-size:10px;">上海科技馆</text>
+<circle id="世纪公园" cx="333.8" cy="162.9" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="世纪公园t" x="340.6" y="164.8" style="fill:white;font-size:10px;">世纪公园</text>
+<circle id="张江高科" cx="503.6" cy="205.8" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="张江高科t" x="480.0" y="193.3" style="fill:white;font-size:10px;">张江高科</text>
+<circle id="金科路" cx="553.6" cy="205.8" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="金科路t" x="533.0" y="193.3" style="fill:white;font-size:10px;">金科路</text>
+<circle id="广兰路" cx="603.6" cy="205.8" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="广兰路t" x="583.0" y="193.3" style="fill:white;font-size:10px;">广兰路</text>
+<circle id="唐镇" cx="653.6" cy="205.8" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="唐镇t" x="633.0" y="193.3" style="fill:white;font-size:10px;">唐镇</text>
+<circle id="创新中路" cx="680.0" cy="230.0" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="创新中路t" x="686.8" y="231.9" style="fill:white;font-size:10px;">创新中路</text>
+<circle id="华夏东路" cx="680.0" cy="265.0" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="华夏东路t" x="686.8" y="266.9" style="fill:white;font-size:10px;">华夏东路</text>
+<circle id="川沙" cx="680.0" cy="300.0" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="川沙t" x="686.8" y="301.9" style="fill:white;font-size:10px;">川沙</text>
+<circle id="凌空路" cx="680.0" cy="335.0" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="凌空路t" x="686.8" y="336.9" style="fill:white;font-size:10px;">凌空路</text>
+<circle id="远东大道" cx="680.0" cy="370.0" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="远东大道t" x="686.8" y="371.9" style="fill:white;font-size:10px;">远东大道</text>
+<circle id="海天三路" cx="680.0" cy="405.0" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="海天三路t" x="686.8" y="406.9" style="fill:white;font-size:10px;">海天三路</text>
+<circle id="浦东国际机场" cx="680.0" cy="440" r="5" stroke="#36B854" stroke-width="1" fill="white"/>
+<text id="浦东国际机场t" x="686.8" y="440" style="fill:white;font-size:10px;">浦东国际机场</text>
+<circle id="江杨北路" cx="175.3" cy="-673.4" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="江杨北路t" x="115.8" y="-669.3" style="fill:white;font-size:10px;">江杨北路</text>
+<circle id="铁力路" cx="175.3" cy="-641.0" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="铁力路t" x="126.5" y="-638.0" style="fill:white;font-size:10px;">铁力路</text>
+<circle id="友谊路" cx="175.3" cy="-609.6" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="友谊路t" x="126.5" y="-606.5" style="fill:white;font-size:10px;">友谊路</text>
+<circle id="宝杨路" cx="175.3" cy="-578.3" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="宝杨路t" x="126.5" y="-575.2" style="fill:white;font-size:10px;">宝杨路</text>
+<circle id="水产路" cx="175.3" cy="-546.9" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="水产路t" x="126.5" y="-543.8" style="fill:white;font-size:10px;">水产路</text>
+<circle id="淞滨路" cx="175.3" cy="-515.5" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="淞滨路t" x="126.5" y="-512.5" style="fill:white;font-size:10px;">淞滨路</text>
+<circle id="张华浜" cx="175.3" cy="-483.9" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="张华浜t" x="126.5" y="-481.1" style="fill:white;font-size:10px;">张华浜</text>
+<circle id="淞发路" cx="175.3" cy="-452.6" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="淞发路t" x="126.5" y="-449.7" style="fill:white;font-size:10px;">淞发路</text>
+<circle id="长江南路" cx="175.3" cy="-421.3" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="长江南路t" x="115.8" y="-418.4" style="fill:white;font-size:10px;">长江南路</text>
+<circle id="殷高西路" cx="175.3" cy="-389.6" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="殷高西路t" x="115.8" y="-386.9" style="fill:white;font-size:10px;">殷高西路</text>
+<circle id="江湾镇" cx="175.3" cy="-358.5" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="江湾镇t" x="126.5" y="-355.6" style="fill:white;font-size:10px;">江湾镇</text>
+<circle id="大柏树" cx="175.3" cy="-327.1" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="大柏树t" x="126.5" y="-324.2" style="fill:white;font-size:10px;">大柏树</text>
+<circle id="赤峰路" cx="175.3" cy="-295.1" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="赤峰路t" x="126.5" y="-292.9" style="fill:white;font-size:10px;">赤峰路</text>
+<circle id="东宝兴路" cx="121.8" cy="-208.6" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="东宝兴路t" x="130.3" y="-204.3" style="fill:white;font-size:10px;">东宝兴路</text>
+<circle id="漕溪路" cx="-187.6" cy="213.6" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="漕溪路t" x="-181.3" y="215.2" style="fill:white;font-size:10px;">漕溪路</text>
+<circle id="龙漕路" cx="-187.6" cy="256.9" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="龙漕路t" x="-237.6" y="261.9" style="fill:white;font-size:10px;">龙漕路</text>
+<circle id="石龙路" cx="-223.5" cy="294.3" r="5" stroke="#FFD823" stroke-width="1" fill="white"/>
+<text id="石龙路t" x="-217.3" y="300.9" style="fill:white;font-size:10px;">石龙路</text>
+<circle id="上海南站" cx="-268.7" cy="338.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="上海南站t" x="-329.6" y="341.0" style="fill:white;font-size:10px;">上海南站</text>
+<circle id="宝山路" cx="25.9" cy="-145.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="宝山路t" x="7.4" y="-163.5" style="fill:white;font-size:10px;">宝山路</text>
+<circle id="上海火车站" cx="-16.6" cy="-145.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="上海火车站t" x="-83.7" y="-163.5" style="fill:white;font-size:10px;">上海火车站</text>
+<circle id="中潭路" cx="-104.3" cy="-145.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="中潭路t" x="-124.8" y="-163.5" style="fill:white;font-size:10px;">中潭路</text>
+<circle id="镇坪路" cx="-196.7" cy="-145.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="镇坪路t" x="-187.8" y="-163.5" style="fill:white;font-size:10px;">镇坪路</text>
+<circle id="金沙江路" cx="-234.3" cy="-86.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="金沙江路t" x="-277.7" y="-71.2" style="fill:white;font-size:10px;">金沙江路</text>
+<circle id="中山公园" cx="-237.3" cy="-27.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="中山公园t" x="-224.2" y="-9.2" style="fill:white;font-size:10px;">中山公园</text>
+<circle id="延安西路" cx="-237.3" cy="15.4" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="延安西路t" x="-297.7" y="17.5" style="fill:white;font-size:10px;">延安西路</text>
+<circle id="上海体育馆" cx="-192.8" cy="153.7" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="上海体育馆t" x="-180.5" y="155.6" style="fill:white;font-size:10px;">上海体育馆</text>
+<circle id="上海体育场" cx="-153.3" cy="194.3" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="上海体育场t" x="-143.2" y="196.1" style="fill:white;font-size:10px;">上海体育场</text>
+<circle id="东安路" cx="-73.3" cy="214.5" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="东安路t" x="-69.7" y="232.6" style="fill:white;font-size:10px;">东安路</text>
+<circle id="大木桥路" cx="6.5" cy="214.5" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="大木桥路t" x="-19.5" y="232.6" style="fill:white;font-size:10px;">大木桥路</text>
+<circle id="鲁班路" cx="52.6" cy="214.5" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="鲁班路t" x="32.6" y="232.6" style="fill:white;font-size:10px;">鲁班路</text>
+<circle id="南浦大桥" cx="148.1" cy="214.5" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="南浦大桥t" x="121.8" y="232.6" style="fill:white;font-size:10px;">南浦大桥</text>
+<circle id="塘桥" cx="200.9" cy="214.5" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="塘桥t" x="184.2" y="232.6" style="fill:white;font-size:10px;">塘桥</text>
+<circle id="浦电路4" cx="279.6" cy="102.2" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="浦电路4t" x="285.6" y="104.7" style="fill:white;font-size:10px;">浦电路</text>
+<circle id="浦东大道" cx="279.6" cy="-42.3" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="浦东大道t" x="287.0" y="-40.1" style="fill:white;font-size:10px;">浦东大道</text>
+<circle id="杨树浦路" cx="279.6" cy="-89.0" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="杨树浦路t" x="287.0" y="-86.9" style="fill:white;font-size:10px;">杨树浦路</text>
+<circle id="大连路" cx="279.6" cy="-118.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="大连路t" x="287.0" y="-116.0" style="fill:white;font-size:10px;">大连路</text>
+<circle id="临平路" cx="234.7" cy="-173.1" r="5" stroke="#320176" stroke-width="1" fill="white"/>
+<text id="临平路t" x="217.1" y="-156.6" style="fill:white;font-size:10px;">临平路</text>
+<circle id="莘庄" cx="-397.4" cy="469.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="莘庄t" x="-435.8" y="471.9" style="fill:white;font-size:10px;">莘庄</text>
+<circle id="春申路" cx="-397.4" cy="509.9" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="春申路t" x="-443.6" y="512.1" style="fill:white;font-size:10px;">春申路</text>
+<circle id="银都路" cx="-397.4" cy="546.2" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="银都路t" x="-443.6" y="548.4" style="fill:white;font-size:10px;">银都路</text>
+<circle id="颛桥" cx="-397.4" cy="587.9" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="颛桥t" x="-432.9" y="590.0" style="fill:white;font-size:10px;">颛桥</text>
+<circle id="北桥" cx="-397.4" cy="628.9" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="北桥t" x="-432.9" y="631.0" style="fill:white;font-size:10px;">北桥</text>
+<circle id="剑川路" cx="-397.4" cy="669.7" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="剑川路t" x="-443.6" y="671.9" style="fill:white;font-size:10px;">剑川路</text>
+<circle id="东川路" cx="-397.4" cy="712.5" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="东川路t" x="-443.6" y="714.6" style="fill:white;font-size:10px;">东川路</text>
+<circle id="金平路" cx="-434.9" cy="766.8" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="金平路t" x="-430.5" y="777.0" style="fill:white;font-size:10px;">金平路</text>
+<circle id="华宁路" cx="-480.8" cy="811.6" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="华宁路t" x="-476.9" y="822.3" style="fill:white;font-size:10px;">华宁路</text>
+<circle id="文井路" cx="-572.8" cy="841.6" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="文井路t" x="-590.9" y="861.5" style="fill:white;font-size:10px;">文井路</text>
+<circle id="闵行开发区" cx="-647.2" cy="841.6" r="5" stroke="#823094" stroke-width="1" fill="white"/>
+<text id="闵行开发区t" x="-680.5" y="861.5" style="fill:white;font-size:10px;">闵行开发区</text>
+<circle id="港城路" cx="586.2" cy="-571.1" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="港城路t" x="594.6" y="-569.0" style="fill:white;font-size:10px;">港城路</text>
+<circle id="外高桥保税区北" cx="586.2" cy="-530.1" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="外高桥保税区北t" x="594.6" y="-528.0" style="fill:white;font-size:10px;">外高桥保税区北</text>
+<circle id="航津路" cx="586.2" cy="-484.6" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="航津路t" x="594.6" y="-482.4" style="fill:white;font-size:10px;">航津路</text>
+<circle id="外高桥保税区南" cx="586.2" cy="-439.6" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="外高桥保税区南t" x="594.6" y="-437.4" style="fill:white;font-size:10px;">外高桥保税区南</text>
+<circle id="洲海路" cx="586.2" cy="-393.7" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="洲海路t" x="594.6" y="-392.1" style="fill:white;font-size:10px;">洲海路</text>
+<circle id="五洲大道" cx="586.2" cy="-348.3" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="五洲大道t" x="594.6" y="-346.1" style="fill:white;font-size:10px;">五洲大道</text>
+<circle id="东靖路" cx="586.2" cy="-295.6" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="东靖路t" x="594.6" y="-293.5" style="fill:white;font-size:10px;">东靖路</text>
+<circle id="巨峰路" cx="576.3" cy="-249.4" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="巨峰路t" x="584.5" y="-231.4" style="fill:white;font-size:10px;">巨峰路</text>
+<circle id="五莲路" cx="543.3" cy="-216.4" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="五莲路t" x="552.0" y="-207.8" style="fill:white;font-size:10px;">五莲路</text>
+<circle id="博兴路" cx="511.6" cy="-184.8" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="博兴路t" x="519.7" y="-175.8" style="fill:white;font-size:10px;">博兴路</text>
+<circle id="金桥路" cx="479.8" cy="-152.9" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="金桥路t" x="488.1" y="-146.6" style="fill:white;font-size:10px;">金桥路</text>
+<circle id="云山路" cx="448.2" cy="-121.4" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="云山路t" x="455.9" y="-111.7" style="fill:white;font-size:10px;">云山路</text>
+<circle id="德平路" cx="415.9" cy="-89.0" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="德平路t" x="422.6" y="-78.3" style="fill:white;font-size:10px;">德平路</text>
+<circle id="北洋泾路" cx="384.4" cy="-57.6" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="北洋泾路t" x="392.4" y="-50.5" style="fill:white;font-size:10px;">北洋泾路</text>
+<circle id="民生路" cx="352.0" cy="-25.2" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="民生路t" x="362.1" y="-17.9" style="fill:white;font-size:10px;">民生路</text>
+<circle id="源深体育中心" cx="322.2" cy="4.6" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="源深体育中心t" x="331.1" y="15.0" style="fill:white;font-size:10px;">源深体育中心</text>
+<circle id="浦电路6" cx="237.0" cy="102.2" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="浦电路6t" x="194.7" y="104.3" style="fill:white;font-size:10px;">浦电路</text>
+<circle id="蓝村路" cx="237.0" cy="178.4" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="蓝村路t" x="246.2" y="185.0" style="fill:white;font-size:10px;">蓝村路</text>
+<circle id="上海儿童医学中心" cx="237.0" cy="228.1" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="上海儿童医学中心t" x="246.2" y="230.2" style="fill:white;font-size:10px;">上海儿童医学中心</text>
+<circle id="临沂新村" cx="237.0" cy="290.1" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="临沂新村t" x="246.2" y="292.3" style="fill:white;font-size:10px;">临沂新村</text>
+<circle id="高科西路" cx="210.6" cy="335.8" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="高科西路t" x="211.1" y="352.6" style="fill:white;font-size:10px;">高科西路</text>
+<circle id="东明路" cx="166.2" cy="380.2" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="东明路t" x="173.4" y="388.9" style="fill:white;font-size:10px;">东明路</text>
+<circle id="高青路" cx="134.4" cy="433.8" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="高青路t" x="142.3" y="435.9" style="fill:white;font-size:10px;">高青路</text>
+<circle id="华夏西路" cx="134.4" cy="494.1" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="华夏西路t" x="142.3" y="496.3" style="fill:white;font-size:10px;">华夏西路</text>
+<circle id="上南路" cx="106.2" cy="528.0" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="上南路t" x="86.1" y="545.7" style="fill:white;font-size:10px;">上南路</text>
+<circle id="灵岩南路" cx="24.9" cy="528.0" r="5" stroke="#CF047A" stroke-width="1" fill="white"/>
+<text id="灵岩南路t" x="-0.9" y="545.7" style="fill:white;font-size:10px;">灵岩南路</text>
+<circle id="东方体育中心" cx="-72.9" cy="528.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="东方体育中心t" x="-158.1" y="543.0" style="fill:white;font-size:10px;">东方体育中心</text>
+<circle id="美兰湖" cx="-196.7" cy="-567.0" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="美兰湖t" x="-187.8" y="-564.8" style="fill:white;font-size:10px;">美兰湖</text>
+<circle id="罗南新村" cx="-196.7" cy="-540.4" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="罗南新村t" x="-187.8" y="-538.3" style="fill:white;font-size:10px;">罗南新村</text>
+<circle id="潘广路" cx="-196.7" cy="-513.4" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="潘广路t" x="-187.8" y="-511.3" style="fill:white;font-size:10px;">潘广路</text>
+<circle id="刘行" cx="-196.7" cy="-486.4" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="刘行t" x="-187.8" y="-484.3" style="fill:white;font-size:10px;">刘行</text>
+<circle id="顾村公园" cx="-196.7" cy="-460.9" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="顾村公园t" x="-187.8" y="-458.8" style="fill:white;font-size:10px;">顾村公园</text>
+<circle id="祁华路" cx="-196.7" cy="-434.3" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="祁华路t" x="-187.8" y="-432.3" style="fill:white;font-size:10px;">祁华路</text>
+<circle id="上海大学" cx="-196.7" cy="-407.8" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="上海大学t" x="-187.8" y="-405.8" style="fill:white;font-size:10px;">上海大学</text>
+<circle id="南陈路" cx="-196.7" cy="-381.3" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="南陈路t" x="-187.8" y="-379.3" style="fill:white;font-size:10px;">南陈路</text>
+<circle id="上大路" cx="-196.7" cy="-354.7" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="上大路t" x="-187.8" y="-352.8" style="fill:white;font-size:10px;">上大路</text>
+<circle id="场中路" cx="-196.7" cy="-328.2" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="场中路t" x="-187.8" y="-326.2" style="fill:white;font-size:10px;">场中路</text>
+<circle id="大场镇" cx="-196.7" cy="-301.6" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="大场镇t" x="-187.8" y="-299.7" style="fill:white;font-size:10px;">大场镇</text>
+<circle id="行知路" cx="-196.7" cy="-275.1" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="行知路t" x="-187.8" y="-273.2" style="fill:white;font-size:10px;">行知路</text>
+<circle id="大华三路" cx="-196.7" cy="-248.6" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="大华三路t" x="-187.8" y="-246.7" style="fill:white;font-size:10px;">大华三路</text>
+<circle id="新村路" cx="-196.7" cy="-222.1" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="新村路t" x="-187.8" y="-220.2" style="fill:white;font-size:10px;">新村路</text>
+<circle id="岚皋路" cx="-196.7" cy="-195.6" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="岚皋路t" x="-187.8" y="-193.7" style="fill:white;font-size:10px;">岚皋路</text>
+<circle id="长寿路" cx="-159.8" cy="-113.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="长寿路t" x="-154.8" y="-122.1" style="fill:white;font-size:10px;">长寿路</text>
+<circle id="昌平路" cx="-117.4" cy="-70.5" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="昌平路t" x="-103.8" y="-68.3" style="fill:white;font-size:10px;">昌平路</text>
+<circle id="龙华中路" cx="-73.3" cy="290.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="龙华中路t" x="-68.3" y="280.0" style="fill:white;font-size:10px;">龙华中路</text>
+<circle id="后滩" cx="-20.0" cy="334.8" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="后滩t" x="-35.0" y="352.6" style="fill:white;font-size:10px;">后滩</text>
+<circle id="长清路" cx="40.0" cy="334.8" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="长清路t" x="21.9" y="352.6" style="fill:white;font-size:10px;">长清路</text>
+<circle id="云台路" cx="152.3" cy="335.8" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="云台路t" x="134.6" y="352.6" style="fill:white;font-size:10px;">云台路</text>
+<circle id="杨高南路" cx="288.8" cy="335.8" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="杨高南路t" x="266.2" y="352.6" style="fill:white;font-size:10px;">杨高南路</text>
+<circle id="锦绣路" cx="324.1" cy="335.8" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="锦绣路t" x="329.6" y="346.2" style="fill:white;font-size:10px;">锦绣路</text>
+<circle id="芳华路" cx="393.7" cy="267.1" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="芳华路t" x="401.4" y="274.3" style="fill:white;font-size:10px;">芳华路</text>
+<circle id="花木路" cx="498.4" cy="162.3" r="5" stroke="#F3560F" stroke-width="1" fill="white"/>
+<text id="花木路t" x="506.0" y="164.7" style="fill:white;font-size:10px;">花木路</text>
+<circle id="市光路" cx="397.6" cy="-594.7" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="市光路t" x="405.4" y="-592.9" style="fill:white;font-size:10px;">市光路</text>
+<circle id="嫩江路" cx="397.6" cy="-550.4" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="嫩江路t" x="405.4" y="-548.7" style="fill:white;font-size:10px;">嫩江路</text>
+<circle id="翔殷路" cx="397.6" cy="-508.1" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="翔殷路t" x="405.4" y="-506.0" style="fill:white;font-size:10px;">翔殷路</text>
+<circle id="黄兴公园" cx="397.6" cy="-465.6" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="黄兴公园t" x="405.4" y="-463.4" style="fill:white;font-size:10px;">黄兴公园</text>
+<circle id="延吉中路" cx="397.6" cy="-420.9" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="延吉中路t" x="405.4" y="-418.6" style="fill:white;font-size:10px;">延吉中路</text>
+<circle id="黄兴路" cx="371.3" cy="-394.6" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="黄兴路t" x="377.6" y="-385.7" style="fill:white;font-size:10px;">黄兴路</text>
+<circle id="江浦路" cx="345.8" cy="-369.0" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="江浦路t" x="352.9" y="-359.1" style="fill:white;font-size:10px;">江浦路</text>
+<circle id="鞍山新村" cx="319.7" cy="-342.9" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="鞍山新村t" x="327.3" y="-332.9" style="fill:white;font-size:10px;">鞍山新村</text>
+<circle id="曲阳路" cx="268.1" cy="-291.4" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="曲阳路t" x="220.1" y="-291.4" style="fill:white;font-size:10px;">曲阳路</text>
+<circle id="虹口足球场" cx="175.3" cy="-260.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="虹口足球场t" x="181.4" y="-243.4" style="fill:white;font-size:10px;">虹口足球场</text>
+<circle id="西藏北路" cx="108.0" cy="-260.8" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="西藏北路t" x="84.2" y="-241.0" style="fill:white;font-size:10px;">西藏北路</text>
+<circle id="中兴路" cx="65.2" cy="-223.2" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="中兴路t" x="71.7" y="-220.8" style="fill:white;font-size:10px;">中兴路</text>
+<circle id="曲阜路" cx="65.2" cy="-90.8" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="曲阜路t" x="73.5" y="-73.8" style="fill:white;font-size:10px;">曲阜路</text>
+<circle id="人民广场" cx="65.2" cy="-27.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="人民广场t" x="8.6" y="-9.2" style="fill:white;font-size:10px;">人民广场</text>
+<circle id="大世界" cx="100.7" cy="25.0" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="大世界t" x="109.1" y="27.2" style="fill:white;font-size:10px;">大世界</text>
+<circle id="西藏南路" cx="100.7" cy="214.5" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="西藏南路t" x="109.1" y="198.4" style="fill:white;font-size:10px;">西藏南路</text>
+<circle id="中华艺术宫" cx="100.7" cy="301.0" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="中华艺术宫t" x="109.1" y="301.0" style="fill:white;font-size:10px;">中华艺术宫</text>
+<circle id="耀华路" cx="100.7" cy="333.9" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="耀华路t" x="105.7" y="323.9" style="fill:white;font-size:10px;">耀华路</text>
+<circle id="成山路" cx="100.7" cy="367.9" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="成山路t" x="109.1" y="369.9" style="fill:white;font-size:10px;">成山路</text>
+<circle id="杨思" cx="41.1" cy="414.9" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="杨思t" x="49.5" y="419.9" style="fill:white;font-size:10px;">杨思</text>
+<circle id="凌兆新村" cx="-72.9" cy="559.5" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="凌兆新村t" x="-64.5" y="561.5" style="fill:white;font-size:10px;">凌兆新村</text>
+<circle id="芦恒路" cx="-72.9" cy="597.0" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="芦恒路t" x="-64.5" y="599.0" style="fill:white;font-size:10px;">芦恒路</text>
+<circle id="浦江镇" cx="-72.9" cy="635.0" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="浦江镇t" x="-64.5" y="637.0" style="fill:white;font-size:10px;">浦江镇</text>
+<circle id="江月路" cx="-72.9" cy="673.5" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="江月路t" x="-64.5" y="675.5" style="fill:white;font-size:10px;">江月路</text>
+<circle id="联航路" cx="-72.9" cy="710.5" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="联航路t" x="-64.5" y="712.5" style="fill:white;font-size:10px;">联航路</text>
+<circle id="沈杜公路" cx="-72.9" cy="748.0" r="5" stroke="#008CC1" stroke-width="1" fill="white"/>
+<text id="沈杜公路t" x="-64.5" y="750.0" style="fill:white;font-size:10px;">沈杜公路</text>
+<circle id="杨高中路" cx="340.0" cy="70.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="杨高中路t" x="348.9" y="72.6" style="fill:white;font-size:10px;">杨高中路</text>
+<circle id="世纪大道" cx="279.7" cy="46.5" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="世纪大道t" x="288.6" y="49.1" style="fill:white;font-size:10px;">世纪大道</text>
+<circle id="商城路" cx="220.0" cy="46.5" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="商城路t" x="215.0" y="64.1" style="fill:white;font-size:10px;">商城路</text>
+<circle id="小南门" cx="150.0" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="小南门t" x="129.9" y="128.6" style="fill:white;font-size:10px;">小南门</text>
+<circle id="陆家浜路" cx="100.7" cy="110.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="陆家浜路t" x="109.1" y="98.0" style="fill:white;font-size:10px;">陆家浜路</text>
+<circle id="马当路" cx="75.0" cy="110.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="马当路t" x="36.9" y="128.6" style="fill:white;font-size:10px;">马当路</text>
+<circle id="打浦桥" cx="15.0" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="打浦桥t" x="-5.1" y="128.6" style="fill:white;font-size:10px;">打浦桥</text>
+<circle id="嘉善路" cx="-30.0" cy="110.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="嘉善路t" x="-65.1" y="128.6" style="fill:white;font-size:10px;">嘉善路</text>
+<circle id="肇嘉浜路" cx="-74.2" cy="110.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="肇嘉浜路t" x="-69.2" y="98.0" style="fill:white;font-size:10px;">肇嘉浜路</text>
+<circle id="徐家汇" cx="-148.0" cy="110.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="徐家汇t" x="-190.0" y="96.0" style="fill:white;font-size:10px;">徐家汇</text>
+<circle id="宜山路" cx="-237.3" cy="110.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="宜山路t" x="-286.9" y="100.4" style="fill:white;font-size:10px;">宜山路</text>
+<circle id="桂林路" cx="-297.5" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="桂林路t" x="-317.6" y="128.6" style="fill:white;font-size:10px;">桂林路</text>
+<circle id="漕河泾开发区" cx="-360.9" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="漕河泾开发区t" x="-397.1" y="128.6" style="fill:white;font-size:10px;">漕河泾开发区</text>
+<circle id="合川路" cx="-427.0" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="合川路t" x="-447.1" y="128.6" style="fill:white;font-size:10px;">合川路</text>
+<circle id="星中路" cx="-478.6" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="星中路t" x="-498.7" y="128.6" style="fill:white;font-size:10px;">星中路</text>
+<circle id="七宝" cx="-530.5" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="七宝t" x="-545.3" y="128.6" style="fill:white;font-size:10px;">七宝</text>
+<circle id="中春路" cx="-577.8" cy="110.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="中春路t" x="-597.9" y="128.6" style="fill:white;font-size:10px;">中春路</text>
+<circle id="九亭" cx="-641.9" cy="141.1" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="九亭t" x="-632.0" y="146.8" style="fill:white;font-size:10px;">九亭</text>
+<circle id="泗泾" cx="-667.7" cy="167.0" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="泗泾t" x="-659.9" y="174.9" style="fill:white;font-size:10px;">泗泾</text>
+<circle id="佘山" cx="-705.3" cy="204.6" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="佘山t" x="-696.8" y="211.8" style="fill:white;font-size:10px;">佘山</text>
+<circle id="洞泾" cx="-743.5" cy="242.8" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="洞泾t" x="-734.8" y="250.4" style="fill:white;font-size:10px;">洞泾</text>
+<circle id="松江大学城" cx="-781.5" cy="280.8" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="松江大学城t" x="-774.0" y="288.1" style="fill:white;font-size:10px;">松江大学城</text>
+<circle id="松江新城" cx="-818.9" cy="318.1" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="松江新城t" x="-809.0" y="324.3" style="fill:white;font-size:10px;">松江新城</text>
+<circle id="松江体育中心" cx="-818.9" cy="358.1" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="松江体育中心t" x="-809.0" y="360.2" style="fill:white;font-size:10px;">松江体育中心</text>
+<circle id="醉白池" cx="-818.9" cy="398.1" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="醉白池t" x="-809.0" y="400.2" style="fill:white;font-size:10px;">醉白池</text>
+<circle id="松江南站" cx="-818.9" cy="438.1" r="5" stroke="#91C5DB" stroke-width="1" fill="white"/>
+<text id="松江南站t" x="-809.0" y="440.2" style="fill:white;font-size:10px;">松江南站</text>
+<circle id="新江湾城" cx="293.9" cy="-514.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="新江湾城t" x="233.4" y="-511.6" style="fill:white;font-size:10px;">新江湾城</text>
+<circle id="殷高东路" cx="293.9" cy="-486.9" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="殷高东路t" x="233.4" y="-484.7" style="fill:white;font-size:10px;">殷高东路</text>
+<circle id="三门路" cx="293.9" cy="-459.9" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="三门路t" x="244.2" y="-457.8" style="fill:white;font-size:10px;">三门路</text>
+<circle id="江湾体育场" cx="293.9" cy="-432.9" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="江湾体育场t" x="222.7" y="-430.9" style="fill:white;font-size:10px;">江湾体育场</text>
+<circle id="五角场" cx="293.9" cy="-405.8" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="五角场t" x="244.2" y="-404.1" style="fill:white;font-size:10px;">五角场</text>
+<circle id="国权路" cx="293.9" cy="-378.8" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="国权路t" x="244.2" y="-377.1" style="fill:white;font-size:10px;">国权路</text>
+<circle id="同济大学" cx="293.9" cy="-351.6" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="同济大学t" x="233.4" y="-350.3" style="fill:white;font-size:10px;">同济大学</text>
+<circle id="四平路" cx="293.9" cy="-317.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="四平路t" x="244.2" y="-315.3" style="fill:white;font-size:10px;">四平路</text>
+<circle id="邮电新村" cx="261.9" cy="-231.8" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="邮电新村t" x="268.5" y="-225.0" style="fill:white;font-size:10px;">邮电新村</text>
+<circle id="海伦路" cx="200.9" cy="-171.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="海伦路t" x="162.9" y="-185.6" style="fill:white;font-size:10px;">海伦路</text>
+<circle id="四川北路" cx="164.6" cy="-134.8" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="四川北路t" x="171.3" y="-128.5" style="fill:white;font-size:10px;">四川北路</text>
+<circle id="天潼路" cx="148.3" cy="-90.8" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="天潼路t" x="156.6" y="-103.5" style="fill:white;font-size:10px;">天潼路</text>
+<circle id="南京东路" cx="148.3" cy="-27.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="南京东路t" x="93.3" y="-9.2" style="fill:white;font-size:10px;">南京东路</text>
+<circle id="豫园" cx="148.3" cy="12.9" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="豫园t" x="156.3" y="15.3" style="fill:white;font-size:10px;">豫园</text>
+<circle id="老西门" cx="100.7" cy="67.9" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="老西门t" x="109.1" y="79.9" style="fill:white;font-size:10px;">老西门</text>
+<circle id="陕西南路" cx="-37.1" cy="50.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="陕西南路t" x="-62.1" y="32.0" style="fill:white;font-size:10px;">陕西南路</text>
+<circle id="上海图书馆" cx="-147.7" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="上海图书馆t" x="-176.4" y="41.1" style="fill:white;font-size:10px;">上海图书馆</text>
+<circle id="虹桥路" cx="-237.3" cy="53.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="虹桥路t" x="-287.3" y="41.1" style="fill:white;font-size:10px;">虹桥路</text>
+<circle id="宋园路" cx="-320.3" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="宋园路t" x="-338.6" y="41.1" style="fill:white;font-size:10px;">宋园路</text>
+<circle id="伊犁路" cx="-372.4" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="伊犁路t" x="-391.3" y="41.1" style="fill:white;font-size:10px;">伊犁路</text>
+<circle id="水城路" cx="-424.6" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="水城路t" x="-443.4" y="41.1" style="fill:white;font-size:10px;">水城路</text>
+<circle id="龙柏新村" cx="-529.0" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="龙柏新村t" x="-551.9" y="41.1" style="fill:white;font-size:10px;">龙柏新村</text>
+<circle id="紫藤路" cx="-581.1" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="紫藤路t" x="-599.9" y="41.1" style="fill:white;font-size:10px;">紫藤路</text>
+<circle id="航中路" cx="-633.3" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="航中路t" x="-651.6" y="41.1" style="fill:white;font-size:10px;">航中路</text>
+<circle id="龙溪路" cx="-476.8" cy="53.0" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="龙溪路t" x="-495.5" y="41.1" style="fill:white;font-size:10px;">龙溪路</text>
+<circle id="上海动物园" cx="-502.3" cy="23.6" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="上海动物园t" x="-491.6" y="24.7" style="fill:white;font-size:10px;">上海动物园</text>
+<circle id="虹桥1号航站楼" cx="-514.6" cy="7.6" r="5" stroke="#C7AFD3" stroke-width="1" fill="white"/>
+<text id="虹桥1号航站楼t" x="-503.9" y="8.7" style="fill:white;font-size:10px;">虹桥1号航站楼</text>
+<circle id="世博大道" cx="75.0" cy="310.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="世博大道t" x="20.0" y="300.0" style="fill:white;font-size:10px;">世博大道</text>
+<circle id="世博会博物馆" cx="75.0" cy="250.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="世博会博物馆t" x="-10.0" y="252.0" style="fill:white;font-size:10px;">世博会博物馆</text>
+<circle id="新天地" cx="26.9" cy="67.9" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="新天地t" x="-3.6" y="84.2" style="fill:white;font-size:10px;">新天地</text>
+<circle id="淮海中路" cx="-16.1" cy="27.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="淮海中路t" x="-56.1" y="22.0" style="fill:white;font-size:10px;">淮海中路</text>
+<circle id="南京西路" cx="-16.1" cy="-20.1" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="南京西路t" x="-89.6" y="-47.1" style="fill:white;font-size:10px;">南京西路</text>
+<circle id="自然博物馆" cx="-16.1" cy="-53.5" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="自然博物馆t" x="-15.1" y="-35.2" style="fill:white;font-size:10px;">自然博物馆</text>
+<circle id="汉中路" cx="-16.6" cy="-110.5" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="汉中路t" x="-11.6" y="-111.3" style="fill:white;font-size:10px;">汉中路</text>
+<circle id="江宁路" cx="-89.0" cy="-110.5" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="江宁路t" x="-94.0" y="-120.5" style="fill:white;font-size:10px;">江宁路</text>
+<circle id="武宁路" cx="-189.0" cy="-95.9" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="武宁路t" x="-182.0" y="-94.2" style="fill:white;font-size:10px;">武宁路</text>
+<circle id="大渡河路" cx="-290.3" cy="-86.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="大渡河路t" x="-313.7" y="-98.0" style="fill:white;font-size:10px;">大渡河路</text>
+<circle id="真北路" cx="-330.3" cy="-86.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="真北路t" x="-353.7" y="-71.2" style="fill:white;font-size:10px;">真北路</text>
+<circle id="祁连山南路" cx="-350.3" cy="-106.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="祁连山南路t" x="-420.3" y="-104.0" style="fill:white;font-size:10px;">祁连山南路</text>
+<circle id="丰庄" cx="-380.3" cy="-126.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="丰庄t" x="-390.3" y="-138.8" style="fill:white;font-size:10px;">丰庄</text>
+<circle id="金沙江西路" cx="-430.3" cy="-126.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="金沙江西路t" x="-463.7" y="-138.8" style="fill:white;font-size:10px;">金沙江西路</text>
+<circle id="金运路" cx="-490.3" cy="-126.0" r="5" stroke="#f292d1" stroke-width="1" fill="white"/>
+<text id="金运路t" x="-512.7" y="-111.2" style="fill:white;font-size:10px;">金运路</text>
+<circle id="迪士尼" cx="590.0" cy="605.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="迪士尼t" x="575.0" y="625.2" style="fill:white;font-size:10px;">迪士尼</text>
+<circle id="康新公路" cx="525.0" cy="605.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="康新公路t" x="495.0" y="625.2" style="fill:white;font-size:10px;">康新公路</text>
+<circle id="秀沿路" cx="475.0" cy="585.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="秀沿路t" x="485.0" y="590.2" style="fill:white;font-size:10px;">秀沿路</text>
+<circle id="罗山路" cx="445.0" cy="565.2" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="罗山路t" x="395.0" y="585.2" style="fill:white;font-size:10px;">罗山路</text>
+<circle id="御桥" cx="363.0" cy="565.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="御桥t" x="351.6" y="583.2" style="fill:white;font-size:10px;">御桥</text>
+<circle id="严御路" cx="290.0" cy="565.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="严御路t" x="270" y="583.2" style="fill:white;font-size:10px;">严御路</text>
+<circle id="浦三路" cx="220.0" cy="565.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="浦三路t" x="202.3" y="583.2" style="fill:white;font-size:10px;">浦三路</text>
+<circle id="三林东" cx="148.0" cy="565.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="三林东t" x="132.3" y="583.2" style="fill:white;font-size:10px;">三林东</text>
+<circle id="三林" cx="71.2" cy="565.2" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="三林t" x="60.4" y="583.2" style="fill:white;font-size:10px;">三林</text>
+<circle id="龙耀路" cx="-148.0" cy="392.7" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="龙耀路t" x="-139.1" y="390.3" style="fill:white;font-size:10px;">龙耀路</text>
+<circle id="云锦路" cx="-148.0" cy="336.7" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="云锦路t" x="-139.1" y="335.3" style="fill:white;font-size:10px;">云锦路</text>
+<circle id="龙华" cx="-148.0" cy="279.7" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="龙华t" x="-183.8" y="283.3" style="fill:white;font-size:10px;">龙华</text>
+<circle id="上海游泳馆" cx="-148.0" cy="177.7" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="上海游泳馆t" x="-139.9" y="176.3" style="fill:white;font-size:10px;">上海游泳馆</text>
+<circle id="交通大学" cx="-201.6" cy="53.0" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="交通大学t" x="-226.7" y="41.1" style="fill:white;font-size:10px;">交通大学</text>
+<circle id="江苏路" cx="-146.8" cy="-27.1" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="江苏路t" x="-164.3" y="-9.2" style="fill:white;font-size:10px;">江苏路</text>
+<circle id="隆德路" cx="-194.0" cy="-76.9" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="隆德路t" x="-184.0" y="-75.2" style="fill:white;font-size:10px;">隆德路</text>
+<circle id="曹杨路" cx="-240.3" cy="-122.4" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="曹杨路t" x="-293.4" y="-119.7" style="fill:white;font-size:10px;">曹杨路</text>
+<circle id="枫桥路" cx="-278.6" cy="-161.6" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="枫桥路t" x="-270.1" y="-161.7" style="fill:white;font-size:10px;">枫桥路</text>
+<circle id="真如" cx="-303.4" cy="-186.3" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="真如t" x="-291.4" y="-185.7" style="fill:white;font-size:10px;">真如</text>
+<circle id="上海西站" cx="-330.2" cy="-212.1" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="上海西站t" x="-318.3" y="-210.0" style="fill:white;font-size:10px;">上海西站</text>
+<circle id="李子园" cx="-353.1" cy="-237.9" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="李子园t" x="-343.8" y="-234.7" style="fill:white;font-size:10px;">李子园</text>
+<circle id="祁连山路" cx="-353.1" cy="-269.1" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="祁连山路t" x="-344.8" y="-266.4" style="fill:white;font-size:10px;">祁连山路</text>
+<circle id="武威路" cx="-353.1" cy="-300.4" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="武威路t" x="-344.8" y="-298.3" style="fill:white;font-size:10px;">武威路</text>
+<circle id="桃浦新村" cx="-353.1" cy="-331.7" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="桃浦新村t" x="-344.8" y="-329.1" style="fill:white;font-size:10px;">桃浦新村</text>
+<circle id="南翔" cx="-353.1" cy="-363.0" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="南翔t" x="-344.8" y="-361.2" style="fill:white;font-size:10px;">南翔</text>
+<circle id="马陆" cx="-353.1" cy="-394.3" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="马陆t" x="-344.8" y="-392.3" style="fill:white;font-size:10px;">马陆</text>
+<circle id="白银路" cx="-353.1" cy="-475.6" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="白银路t" x="-344.8" y="-473.5" style="fill:white;font-size:10px;">白银路</text>
+<circle id="嘉定西" cx="-353.1" cy="-506.4" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="嘉定西t" x="-344.8" y="-504.3" style="fill:white;font-size:10px;">嘉定西</text>
+<circle id="嘉定北" cx="-353.1" cy="-540.5" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="嘉定北t" x="-344.8" y="-538.5" style="fill:white;font-size:10px;">嘉定北</text>
+<circle id="嘉定新城" cx="-353.1" cy="-425.6" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="嘉定新城t" x="-344.8" y="-423.4" style="fill:white;font-size:10px;">嘉定新城</text>
+<circle id="上海赛车场" cx="-371.3" cy="-441.9" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="上海赛车场t" x="-446.3" y="-437.8" style="fill:white;font-size:10px;">上海赛车场</text>
+<circle id="昌吉东路" cx="-389.5" cy="-458.2" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="昌吉东路t" x="-451.5" y="-454.1" style="fill:white;font-size:10px;">昌吉东路</text>
+<circle id="上海汽车城" cx="-407.7" cy="-474.5" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="上海汽车城t" x="-482.7" y="-469.7" style="fill:white;font-size:10px;">上海汽车城</text>
+<circle id="安亭" cx="-425.9" cy="-491.0" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="安亭t" x="-425.9" y="-499.0" style="fill:white;font-size:10px;">安亭</text>
+<circle id="兆丰路" cx="-508.0" cy="-491.0" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="兆丰路t" x="-528.0" y="-473.0" style="fill:white;font-size:10px;">兆丰路</text>
+<circle id="光明路" cx="-588.0" cy="-491.0" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="光明路t" x="-608.0" y="-473.0" style="fill:white;font-size:10px;">光明路</text>
+<circle id="花桥" cx="-670.0" cy="-491.0" r="5" stroke="#8C2222" stroke-width="1" fill="white"/>
+<text id="花桥t" x="-685.0" y="-473.0" style="fill:white;font-size:10px;">花桥</text>
+<circle id="金海路" cx="789.2" cy="-179.2" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="金海路t" x="800.0" y="-178.9" style="fill:white;font-size:10px;">金海路</text>
+<circle id="申江路" cx="787.8" cy="-249.4" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="申江路t" x="770.7" y="-268.2" style="fill:white;font-size:10px;">申江路</text>
+<circle id="金京路" cx="725.3" cy="-249.4" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="金京路t" x="708.2" y="-268.2" style="fill:white;font-size:10px;">金京路</text>
+<circle id="杨高北路" cx="666.3" cy="-249.4" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="杨高北路t" x="643.8" y="-267.4" style="fill:white;font-size:10px;">杨高北路</text>
+<circle id="巨峰路" cx="576.3" cy="-249.4" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="巨峰路t" x="584.5" y="-231.4" style="fill:white;font-size:10px;">巨峰路</text>
+<circle id="东陆路" cx="532.2" cy="-249.4" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="东陆路t" x="514.5" y="-266.3" style="fill:white;font-size:10px;">东陆路</text>
+<circle id="复兴岛" cx="448.1" cy="-249.4" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="复兴岛t" x="430.4" y="-266.1" style="fill:white;font-size:10px;">复兴岛</text>
+<circle id="爱国路" cx="390.3" cy="-249.4" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="爱国路t" x="375.3" y="-265.1" style="fill:white;font-size:10px;">爱国路</text>
+<circle id="隆昌路" cx="358.3" cy="-213.5" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="隆昌路t" x="372.6" y="-213.2" style="fill:white;font-size:10px;">隆昌路</text>
+<circle id="宁国路" cx="330.3" cy="-183.6" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="宁国路t" x="341.1" y="-183.3" style="fill:white;font-size:10px;">宁国路</text>
+<circle id="江浦公园" cx="304.7" cy="-153.6" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="江浦公园t" x="315.8" y="-153.3" style="fill:white;font-size:10px;">江浦公园</text>
+<circle id="提篮桥" cx="247.5" cy="-95.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="提篮桥t" x="222.1" y="-110.1" style="fill:white;font-size:10px;">提篮桥</text>
+<circle id="国际客运中心" cx="205.3" cy="-92.5" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="国际客运中心t" x="172.1" y="-74.5" style="fill:white;font-size:10px;">国际客运中心</text>
+<circle id="南京西路" cx="-37.1" cy="-20.1" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="南京西路t" x="-89.6" y="-47.1" style="fill:white;font-size:10px;">南京西路</text>
+<circle id="龙华" cx="-158.0" cy="270.7" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="龙华t" x="-183.8" y="283.3" style="fill:white;font-size:10px;">龙华</text>
+<circle id="桂林公园" cx="-340.0" cy="226.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="桂林公园t" x="-355.0" y="214.3" style="fill:white;font-size:10px;">桂林公园</text>
+<circle id="虹漕路" cx="-390.0" cy="226.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="虹漕路t" x="-405.0" y="214.3" style="fill:white;font-size:10px;">虹漕路</text>
+<circle id="虹梅路" cx="-436.0" cy="226.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="虹梅路t" x="-454.0" y="214.3" style="fill:white;font-size:10px;">虹梅路</text>
+<circle id="东兰路" cx="-482.0" cy="226.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="东兰路t" x="-497.0" y="214.3" style="fill:white;font-size:10px;">东兰路</text>
+<circle id="顾戴路" cx="-526.0" cy="226.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="顾戴路t" x="-541.0" y="214.3" style="fill:white;font-size:10px;">顾戴路</text>
+<circle id="虹莘路" cx="-576.0" cy="226.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="虹莘路t" x="-591.0" y="214.3" style="fill:white;font-size:10px;">虹莘路</text>
+<circle id="七莘路" cx="-624.0" cy="226.3" r="5" stroke="#007c64" stroke-width="1" fill="white"/>
+<text id="七莘路t" x="-639.0" y="214.3" style="fill:white;font-size:10px;">七莘路</text>
+<circle id="龙阳路" cx="454.0" cy="205.8" r="7" stroke="#BFBFBF" stroke-width="1" fill="white"/>
+<text id="龙阳路t" x="410.9" y="193.3" style="fill:white;font-size:10px;">龙阳路</text>
+<circle id="华夏中路" cx="452.0" cy="369.2" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="华夏中路t" x="460.0" y="381.2" style="fill:white;font-size:10px;">华夏中路</text>
+<circle id="周浦东" cx="441.8" cy="632.5" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="周浦东t" x="449.8" y="633.2" style="fill:white;font-size:10px;">周浦东</text>
+<circle id="鹤沙航城" cx="441.8" cy="704.0" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="鹤沙航城t" x="449.8" y="704.6" style="fill:white;font-size:10px;">鹤沙航城</text>
+<circle id="航头东" cx="441.8" cy="775.5" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="航头东t" x="449.8" y="775.9" style="fill:white;font-size:10px;">航头东</text>
+<circle id="新场" cx="472.8" cy="821.9" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="新场t" x="457.4" y="805.1" style="fill:white;font-size:10px;">新场</text>
+<circle id="野生动物园" cx="533.5" cy="821.1" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="野生动物园t" x="496.7" y="804.3" style="fill:white;font-size:10px;">野生动物园</text>
+<circle id="惠南" cx="600.2" cy="820.3" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="惠南t" x="587.4" y="804.2" style="fill:white;font-size:10px;">惠南</text>
+<circle id="惠南东" cx="600.2" cy="885.4" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="惠南东t" x="608.0" y="884.2" style="fill:white;font-size:10px;">惠南东</text>
+<circle id="书院" cx="686.8" cy="905.8" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="书院t" x="666.1" y="884.3" style="fill:white;font-size:10px;">书院</text>
+<circle id="临港大道" cx="766.6" cy="905.8" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="临港大道t" x="740.4" y="884.3" style="fill:white;font-size:10px;">临港大道</text>
+<circle id="滴水湖" cx="846.3" cy="905.8" r="5" stroke="#33d4cc" stroke-width="1" fill="white"/>
+<text id="滴水湖t" x="826.1" y="884.3" style="fill:white;font-size:10px;">滴水湖</text>
+</g>
+</svg>
