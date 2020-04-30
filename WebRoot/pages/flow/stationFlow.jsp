@@ -81,16 +81,18 @@ String comDate=sdf.format(cal.getTime());
 			    <el-select v-model="stationId" placeholder="请选择" size="small" @change="changeStation">
 				    <el-option v-for="item in stations" :key="item.value" :label="item.label" :value="item.value"></el-option>
 				</el-select>
-				<div class="block">
-					<input type="checkbox" class="demonstration" name="flag" value="1"><span style="font-size: 14px;color:#ffffff ">进站</span></input>
-					<input type="checkbox" class="demonstration" name="flag" value="2"><span style="font-size: 14px;color:#ffffff ">出站</span></input>
-					<input type="checkbox" class="demonstration" name="flag" value="3"><span style="font-size: 14px;color:#ffffff ">换乘</span></input>
-				</div>
 			  </div>
 		  </el-col>
-		  
+		  <el-col :span="3">
+		  	<div style="width:135px;">
+			  	<input type="checkbox" class="demonstration" name="flag" value="1"><span style="font-size: 14px;color:#ffffff ">进站</span></input>
+				<input type="checkbox" class="demonstration" name="flag" value="2"><span style="font-size: 14px;color:#ffffff ">出站</span></input>
+				<input type="checkbox" class="demonstration" name="flag" value="3"><span style="font-size: 14px;color:#ffffff ">换乘</span></input>
+			</div>
+		  </el-col>
 		  <el-col :span="3"><el-button type="primary" @click="getStationFlow()" size="small">查询</el-button></el-col>
 		</el-row>
+	
 		<el-row>
 			<div id="stationFlow" style="width:100%;height:600px;margin-top:20px;padding:0px 20px"></div>
 		</el-row>	
@@ -161,7 +163,14 @@ String comDate=sdf.format(cal.getTime());
 				  var _this=this;
 				  var startDate=moment(_this.startDate).format("YYYYMMDD");
 				  var comDate=moment(_this.comDate).format("YYYYMMDD");
-				  $.post("station/get_station_periodflux.action",{"startDate":startDate,"comDate":comDate,"lineId":_this.lineId,"stationId":_this.stationId},function(data){
+				  var chkvalue = [];
+				  $('input[name="flag"]:checked').each(function(){
+					 　　　chkvalue.push($(this).val());
+					});
+				 var ckflag = chkvalue.join(",");
+				  
+				  $.post("station/get_station_periodflux.action",{"startDate":startDate,
+				  "comDate":comDate,"lineId":_this.lineId,"stationId":_this.stationId,"ckflag":ckflag},function(data){
 					  _this.initChart();
 					  _this.option.legend.data=[startDate,comDate];
 					  _this.option.series[0].name=comDate;
