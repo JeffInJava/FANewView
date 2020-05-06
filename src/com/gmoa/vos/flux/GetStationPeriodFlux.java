@@ -73,7 +73,7 @@ public class GetStationPeriodFlux extends JsonTagTemplateDaoImpl implements IDoS
 		}
 
 		if (StringUtils.isNotBlank(stationId)) {
-			if (cfg && StringUtils.trimToNull(stationId) != "0418" && StringUtils.trimToNull(stationId) != "0631") {// 浦电路不是换乘站
+			if (cfg && "0418".equals(StringUtils.trimToNull(stationId)) && "0631".equals(StringUtils.trimToNull(stationId))) {// 浦电路不是换乘站
 
 				String staIds = " select trim(station_id) station_id from tbl_metro_station_info "
 						+ " where station_ver = (select max(station_ver) from tbl_metro_station_info) "
