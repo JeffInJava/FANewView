@@ -55,39 +55,39 @@ String comDate=sdf.format(cal.getTime());
   <body style="">
   	  <div id="app" style="width:100%;height:100%;">
   		<el-row style="padding-top:10px;padding-left:20px;">
-		  <el-col :span="5">
+		  <el-col :span="4">
 			  <div class="block">
 			    <span class="demonstration" style="font-size: 14px;color:#ffffff ">当前日期</span>
-			    <el-date-picker v-model="startDate" type="date" placeholder="当前日期" format="yyyyMMdd" value-format="yyyyMMdd" size="small"></el-date-picker>
+			    <el-date-picker style="width:130px;" v-model="startDate" type="date" placeholder="当前日期" format="yyyyMMdd" value-format="yyyyMMdd" size="small"></el-date-picker>
 			  </div>
 		  </el-col>
-		  <el-col :span="5">
+		  <el-col :span="4">
 			  <div class="block">
 			    <span class="demonstration" style="font-size: 14px;color:#ffffff ">对比日期</span>
-			    <el-date-picker v-model="comDate" type="date" placeholder="对比日期" format="yyyyMMdd" value-format="yyyyMMdd" size="small"></el-date-picker>
+			    <el-date-picker style="width:130px;" v-model="comDate" type="date" placeholder="对比日期" format="yyyyMMdd" value-format="yyyyMMdd" size="small"></el-date-picker>
 			  </div>
 		  </el-col>
-		  <el-col :span="5">
+		  <el-col :span="4">
 		  	  <div class="block">
 			    <span class="demonstration" style="font-size: 14px;color:#ffffff ">线路</span>
-			    <el-select placeholder="请选择" size="small" v-model="lineId" @change="changeLine">
+			    <el-select placeholder="请选择"  style="width:135px;" size="small" v-model="lineId" @change="changeLine">
 				    <el-option v-for="item in lines" :key="item.value" :label="item.label" :value="item.value"></el-option>
 				</el-select>
 			  </div>
 		  </el-col>
-		  <el-col :span="5">
+		  <el-col :span="4">
 		  	  <div class="block">
 				<span class="demonstration" style="font-size: 14px;color:#ffffff ">车站</span>
-			    <el-select v-model="stationId" placeholder="请选择" size="small" @change="changeStation">
+			    <el-select style="width:130px;" v-model="stationId" placeholder="请选择" size="small" @change="changeStation">
 				    <el-option v-for="item in stations" :key="item.value" :label="item.label" :value="item.value"></el-option>
 				</el-select>
 			  </div>
 		  </el-col>
 		  <el-col :span="3">
 		  	<div style="width:135px;">
-			  	<input type="checkbox" class="demonstration" name="flag" value="1"><span style="font-size: 14px;color:#ffffff ">进站</span></input>
+			  	<input type="checkbox" checked class="demonstration" name="flag" value="1"><span style="font-size: 14px;color:#ffffff ">进站</span></input>
 				<input type="checkbox" class="demonstration" name="flag" value="2"><span style="font-size: 14px;color:#ffffff ">出站</span></input>
-				<input type="checkbox" class="demonstration" name="flag" value="3"><span style="font-size: 14px;color:#ffffff ">换乘</span></input>
+				<input type="checkbox"  checked class="demonstration" name="flag" value="3"><span style="font-size: 14px;color:#ffffff ">换乘</span></input>
 			</div>
 		  </el-col>
 		  <el-col :span="3"><el-button type="primary" @click="getStationFlow()" size="small">查询</el-button></el-col>
